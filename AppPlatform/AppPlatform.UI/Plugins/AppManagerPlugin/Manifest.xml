@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="AppManagerPlugin" SymbolicName="AppManagerPlugin" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="AppManagerPlugin.Activator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\AppManagerPlugin.dll" Share="false" />
+    <Dependency BundleSymbolicName="AppPlatform.AppInfoService.BLL" AssemblyName="AppPlatform.AppInfoService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.AppOrderService.BLL" AssemblyName="AppPlatform.AppOrderService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.AppReleaseService.BLL" AssemblyName="AppPlatform.AppReleaseService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.AppStoreService.BLL" AssemblyName="AppPlatform.AppStoreService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
+  </Runtime>
+  <Extension Point="MainMenu">
+    <item url="/AppInfo/Index?plugin=AppManagerPlugin" text="应用信息管理" order="0">
+    </item>
+    <item url="/AppOrdered/Index?plugin=AppManagerPlugin" text="已订阅应用管理" order="0">
+    </item>
+    <item url="/AppRelease/Index?plugin=AppManagerPlugin" text="应用发布管理" order="0">
+    </item>
+    <item url="/AppStore/Index?plugin=AppManagerPlugin" text="应用商店" order="0">
+    </item>
+  </Extension>
+</Bundle>

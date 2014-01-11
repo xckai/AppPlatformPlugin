@@ -1,0 +1,30 @@
+﻿@{
+    Layout = null;
+}
+
+@using MvcOSGi.Shell.Models;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>企业用户注册</title>
+</head>
+<body>
+    <div>
+        <ul>
+   @{
+       var viewModel = UIShell.OSGi.BundleRuntime.Instance.GetFirstOrDefaultService<ApplicationViewModel>();
+         if (viewModel != null)
+          {
+                                foreach (var mainMenuItem in viewModel.MainMenuItems.OrderBy(item => item.Order))
+                                {
+                                    <li itemid="@mainMenuItem.Order"><a href="@mainMenuItem.URL">@mainMenuItem.Text</a> </li>
+                                }
+                            }
+                        }
+                    </ul> 
+    </div>
+</body>
+</html>

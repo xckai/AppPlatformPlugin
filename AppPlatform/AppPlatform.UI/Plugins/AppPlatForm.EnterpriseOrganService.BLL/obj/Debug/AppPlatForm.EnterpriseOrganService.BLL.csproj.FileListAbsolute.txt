@@ -1,0 +1,8 @@
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\AppPlatForm.EnterpriseOrganService.BLL.dll
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\AppPlatForm.EnterpriseOrganService.BLL.pdb
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\AppPlatform.LogService.BLL.dll
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\AppPlatform.LogService.BLL.pdb
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.dll
+F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.pdb

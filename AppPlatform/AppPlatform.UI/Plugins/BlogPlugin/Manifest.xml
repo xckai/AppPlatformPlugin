@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="LogPlugin" SymbolicName="LogPlugin" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="LogPlugin.Activator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\LogPlugin.dll" Share="false" />
+    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
+  </Runtime>
+  <Extension Point="MainMenu">
+    <Item url="/Blog/Index?plugin=BlogPlugin" text="Blog" order="4" />
+    <Item url="/Support/Index?plugin=BlogPlugin" text="Support" order="2" />
+  </Extension>
+</Bundle>

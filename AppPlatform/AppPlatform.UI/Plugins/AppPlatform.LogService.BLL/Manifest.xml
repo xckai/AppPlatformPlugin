@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" SymbolicName="AppPlatform.LogService.BLL" Name="AppPlatform.LogService.BLL" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="AppPlatform.LogService.BLL.Activator"/>
+  <Runtime>
+    <Assembly Path="bin\AppPlatform.LogService.BLL.dll" Share="true"/>
+  </Runtime>
+</Bundle>

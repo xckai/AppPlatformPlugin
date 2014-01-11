@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="UserManagerPlugin" SymbolicName="UserManagerPlugin" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="UserManagerPlugin.Activator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\UserManagerPlugin.dll" Share="false" />
+    <Dependency BundleSymbolicName="AppPlatform.EnterpriseInfoService.BLL" AssemblyName="AppPlatform.EnterpriseInfoService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatForm.EnterpriseOrganService.BLL" AssemblyName="AppPlatForm.EnterpriseOrganService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.UserAccountService.BLL" AssemblyName="AppPlatform.UserAccountService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.UserInformationService.BLL" AssemblyName="AppPlatform.UserInformationService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.UserPermissionService.BLL" AssemblyName="AppPlatform.UserPermissionService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.UserRoleService.BLL" AssemblyName="AppPlatform.UserRoleService.BLL" Resolution="Mandatory" />
+  </Runtime>
+  <Extension Point="MainMenu">
+    <item url="/EnterpriseInfo/Index?plugin=UserManagerPlugin" text="企业资料管理" order="0">
+    </item>
+    <item url="/EnterpriseOrganize/Index?plugin=UserManagerPlugin" text="企业组织结构管理" order="0">
+    </item>
+    <item url="/UserAccount/Index?plugin=UserManagerPlugin" text="用户账户管理" order="0">
+    </item>
+    <item url="/UserGroup/Index?plugin=UserManagerPlugin" text="用户组管理" order="0">
+    </item>
+    <item url="/UserPermission/Index?plugin=UserManagerPlugin" text="用户权限管理" order="0">
+    </item>
+    <item url="/UserRole/Index?plugin=UserManagerPlugin" text="用户角色管理" order="0">
+    </item>
+  </Extension>
+</Bundle>

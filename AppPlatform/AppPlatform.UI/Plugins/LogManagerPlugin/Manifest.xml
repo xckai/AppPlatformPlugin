@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="LogManagerPlugin" SymbolicName="LogManagerPlugin" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="LogManagerPlugin.Activator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\LogManagerPlugin.dll" Share="false" />
+    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
+  </Runtime>
+  <Extension Point="MainMenu">
+    <item url="/LogManager/Index?plugin=LogManagerPlugin" text="日志管理" order="0">
+    </item>
+  </Extension>
+</Bundle>
