@@ -124,12 +124,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Activator.cs" />
-    <Compile Include="Controllers\EnterpriseInfoController.cs" />
     <Compile Include="Controllers\EnterpriseOrganizeController.cs" />
     <Compile Include="Controllers\UserAccountController.cs" />
-    <Compile Include="Controllers\UserGroupController.cs" />
     <Compile Include="Controllers\UserInfoController.cs" />
-    <Compile Include="Controllers\UserPermissionController.cs" />
     <Compile Include="Controllers\UserRoleController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -210,28 +207,15 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\UserGroup\Index.cshtml" />
     <Content Include="Views\UserAccount\Index.cshtml" />
-    <Content Include="Views\UserPermission\Index.cshtml" />
     <Content Include="Views\UserRole\Index.cshtml" />
     <Content Include="Views\EnterpriseOrganize\Index.cshtml" />
     <Content Include="Views\UserInfo\Index.cshtml" />
-    <Content Include="Views\EnterpriseInfo\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\AppPlatform.UserGuopService.BLL\AppPlatform.UserGuopService.BLL.csproj">
-      <Project>{18bd1631-3415-45b1-b97a-99759e5b676b}</Project>
-      <Name>AppPlatform.UserGuopService.BLL</Name>
-      <Private>False</Private>
-    </ProjectReference>
-    <ProjectReference Include="..\AppPlatform.EnterpriseInfoService.BLL\AppPlatform.EnterpriseInfoService.BLL.csproj">
-      <Project>{54b7c828-d29b-4bc1-9fae-9f4269bfd608}</Project>
-      <Name>AppPlatform.EnterpriseInfoService.BLL</Name>
-      <Private>False</Private>
-    </ProjectReference>
     <ProjectReference Include="..\AppPlatForm.EnterpriseOrganService.BLL\AppPlatForm.EnterpriseOrganService.BLL.csproj">
       <Project>{8584403e-ebdc-4aca-943e-b954119ed6fa}</Project>
       <Name>AppPlatForm.EnterpriseOrganService.BLL</Name>
@@ -250,11 +234,6 @@
     <ProjectReference Include="..\AppPlatform.UserInformationService.BLL\AppPlatform.UserInfoService.BLL.csproj">
       <Project>{7ed0cf8d-7d3b-405c-ba9c-cba031c82dba}</Project>
       <Name>AppPlatform.UserInfoService.BLL</Name>
-      <Private>False</Private>
-    </ProjectReference>
-    <ProjectReference Include="..\AppPlatform.UserPermissionService.BLL\AppPlatform.UserPermissionService.BLL.csproj">
-      <Project>{2ecb27b9-7c0a-4fb5-99fb-a78f958f44ae}</Project>
-      <Name>AppPlatform.UserPermissionService.BLL</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\AppPlatform.UserRoleService.BLL\AppPlatform.UserRoleService.BLL.csproj">

@@ -3,3 +3,9 @@ F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\Ap
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.LogService.BLL\obj\Debug\AppPlatform.LogService.BLL.dll
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.LogService.BLL\obj\Debug\AppPlatform.LogService.BLL.pdb
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.LogService.BLL\bin\AppPlatform.LogService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.LogService.BLL\bin\AppPlatform.LogService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.LogService.BLL\bin\AppPlatform.LogService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.LogService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.LogService.BLL\obj\Debug\AppPlatform.LogService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.LogService.BLL\obj\Debug\AppPlatform.LogService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.LogService.BLL\obj\Debug\AppPlatform.LogService.BLL.csprojResolveAssemblyReference.cache

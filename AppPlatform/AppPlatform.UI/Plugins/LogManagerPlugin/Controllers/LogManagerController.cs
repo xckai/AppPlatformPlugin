@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using AppPlatform.LogService.BLL;
 
-namespace UserManagerPlugin.Controllers
+namespace EnterpriseManagerPlugin.Controllers
 {
     public class LogManagerController : Controller
     {

@@ -6,3 +6,11 @@ F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\Ap
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.dll
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.UserAccountService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.UserAccountService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.LogService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.LogService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.pdb

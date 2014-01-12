@@ -4,3 +4,9 @@ F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\Ap
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.dll
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.pdb
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\bin\AppPlatform.UserRoleService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\bin\AppPlatform.UserRoleService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.pdb

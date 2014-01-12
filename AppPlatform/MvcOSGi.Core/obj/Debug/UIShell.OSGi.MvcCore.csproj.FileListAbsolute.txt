@@ -3,3 +3,8 @@ F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MvcOSGi.Core\bin\Debug\UI
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.dll
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\bin\Debug\UIShell.OSGi.MvcCore.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\bin\Debug\UIShell.OSGi.MvcCore.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.pdb

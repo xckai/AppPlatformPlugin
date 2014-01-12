@@ -8,3 +8,8 @@ F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MVCOSGI.Extension\bin\Deb
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.dll
 F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Extension.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Extension.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.pdb

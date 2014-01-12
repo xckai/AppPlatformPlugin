@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="AppPlatform.EnterpriseMenuService.bll" SymbolicName="AppPlatform.EnterpriseMenuService.bll" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="AppPlatform.EnterpriseMenuService.bll.Activator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\AppPlatform.EnterpriseMenuService.bll.dll" Share="true" />
+    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
+  </Runtime>
+</Bundle>

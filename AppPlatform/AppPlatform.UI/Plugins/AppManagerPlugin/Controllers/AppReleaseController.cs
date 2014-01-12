@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace UserManagerPlugin.Controllers
+namespace EnterpriseManagerPlugin.Controllers
 {
     public class AppReleaseController : Controller
     {

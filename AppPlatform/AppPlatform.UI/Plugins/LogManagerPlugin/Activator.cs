@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using UIShell.OSGi;
 
-namespace UserManagerPlugin
+namespace EnterpriseManagerPlugin
 {
     public class Activator : IBundleActivator
     {

@@ -53,7 +53,7 @@ namespace AppPlatform.UI
             //Register pages in Shell project.
             ViewModel.MainMenuItems.Add(new MenuItem
             {
-                Text = "Account",
+                Text = "返回登录页面",
                 URL = "/"
             });
 

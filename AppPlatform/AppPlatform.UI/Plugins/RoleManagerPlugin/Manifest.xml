@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" Name="RoleManagerPlugin" SymbolicName="RoleManagerPlugin" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="RoleManagerPlugin.Activator" Policy="Immediate" />
+  <Runtime>
+    <Assembly Path="bin\RoleManagerPlugin.dll" Share="false" />
+    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.RoleService.BLL" AssemblyName="AppPlatform.RoleService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.GroupService.BLL" AssemblyName="AppPlatform.UserGuopService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.GroupPermissionService.BLL" AssemblyName="AppPlatform.GroupPermissionService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="AppPlatform.RolePermissionService.BLL" AssemblyName="AppPlatform.RolePermissionService.BLL" Resolution="Mandatory" />
+  </Runtime>
+  <Extension Point="MainMenu">
+    <item url="/Group/Index?plugin=RoleManagerPlugin" text="组管理" order="0">
+    </item>
+    <item url="/GroupPermission/Index?plugin=RoleManagerPlugin" text="组权限管理" order="0">
+    </item>
+    <item url="/Role/Index?plugin=RoleManagerPlugin" text="角色管理" order="0">
+    </item>
+    <item url="/RolePermission/Index?plugin=RoleManagerPlugin" text="角色权限管理" order="0">
+    </item>
+  </Extension>
+</Bundle>
