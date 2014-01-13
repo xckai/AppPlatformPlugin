@@ -1,5 +1,5 @@
 ﻿@{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "企业应用云平台";
 }
 
 @*<h2>@ViewBag.Enterprise_ID 登录成功</h2>*@
@@ -38,16 +38,16 @@
     </div>
 	
 	<div  data-options="region:'center',fit:true">
-        <div id="maintabs" class="easyui-tabs" data-options="tabWidth:112,fit:true" style="height:auto;border:hidden;overflow:hidden" >
+        <div id="maintabs" class="easyui-tabs" data-options="tabWidth:112,fit:true" style="overflow:hidden" >
             <div title="平台首页" style="padding:10px;border:hidden">
                 <div style="float:left;margin-right:20px"> 
-                    <div id="AppList" class="easyui-panel easyui-draggable easyui-resizable" title="我的应用"  data-options="collapsible:true" style="width:400px;height:500px;padding:10px">
+                    <div id="AppList" class="easyui-panel" title="我的应用"  data-options="collapsible:true" style="width:400px;height:100%;padding:10px">
                         <input type="button" onclick="create('SystemManager', this)" value="系统管理"/>
-                        <input type="button" onclick="create('/EnterpriseOrganize/Index?plugin=UserManagerPlugin', this)" value="企业目录管理"/>
+                        <input type="button" onclick="create('http://jeasyui.com/', this)" value="EasyUI"/>
                     </div>
                 </div>
                 <div style="float:left;margin-left:20px">
-                     <div id="TodoList" class="easyui-panel easyui-draggable easyui-resizable" title="我的任务" data-options="collapsible:true" style="width:400px;height:500px;padding:10px">
+                     <div id="TodoList" class="easyui-panel" title="我的任务" data-options="collapsible:true" style="width:400px;height:100%;padding:10px">
                     </div>
                 </div>
             </div>
