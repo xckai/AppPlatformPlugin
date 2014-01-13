@@ -14,13 +14,13 @@
     @Scripts.Render("~/Scripts/jquery.easyui.min.js")
 </head>
 <body class="easyui-layout">
-<div  data-options="region:'north'"  style="height:100px;overflow:hidden">
+<div  data-options="region:'north'"  style="height:70px;overflow:hidden">
     <img src="~/Content/Image/logohead.png" /></div>
 <div data-options="region:'south'"   style="height:60px;text-align:center;background:#f1f1f1;overflow:hidden"><h2>CopyRight TongJiCAD 2013</h2></div>
 <div data-options="region:'west'"  style="width:800px;border:hidden;text-align:right;vertical-align:central;background-color:#fcfefc;overflow:hidden;padding-top:40px">
     <img src="~/Content/Image/logo.png" />
 </div>
-<div data-options="region:'center'"  style="width:auto;vertical-align:central;background-color:#fcfefc;border:hidden;overflow:hidden;padding-top:40px">
+<div data-options="region:'center'"  style="width:auto;vertical-align:central;background-color:#fcfefc;border:hidden;overflow:hidden;padding-top:60px">
      <div style="width:400px;height:345px;background-color:#fcfefc">
          <div style="border-bottom:2px solid rgba(167, 163, 163, 0.27)"><h1>欢迎登录</h1></div>
         <div style="padding:0 0 0 50px;margin-top:10px">
@@ -40,8 +40,8 @@
                      </p>
                 </div>
                 <div style="border-top:2px solid rgba(167, 163, 163, 0.27)">
-                    <div style="float:right;margin:5px;font-size:20px">@Html.ActionLink("注册","Create","Account")</div>
-                    <div style="float:right;margin:5px;font-size:20px"><Button  id="Submit" type="submit">登录</Button></div>
+                    <div style="float:right;margin:5px"> <a href="/Account/Create" class="easyui-linkbutton" style="font-size:15px">注&nbsp&nbsp册</a></div>
+                    <div style="float:right;margin:5px"><Button  id="Submit" type="submit" style="border-radius:15px;font-size:15px;width:75px;background-color:#f1f1f1" >登&nbsp&nbsp录</Button></div>
                 </div>
             </div>
         </form>

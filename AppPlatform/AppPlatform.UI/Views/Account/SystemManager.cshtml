@@ -1,0 +1,53 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>企业应用云平台</title>
+    <link href="~/Content/themes/default/easyui.css" rel="stylesheet" />
+    <link href="~/Content/themes/icon.css" rel="stylesheet" />
+    @Scripts.Render("~/Scripts/jquery-1.8.0.min.js")
+    @Scripts.Render("~/Scripts/jquery.easyui.min.js")
+    <script>
+        function create(url, btn) {
+            var tit = btn.value;
+            if (!$('#tabs').tabs('exists', tit)) {
+                $('#tabs').tabs('add', {
+                    title: tit,
+                    content: '<iframe scrolling="no" frameborder="0"  src="' + url + '" style="width:100%;height:100%"></iframe>',
+                    closable: true
+                })
+            } else {
+                $('#tabs').tabs('select', tit);
+            }
+        }
+    </script>      
+</head>
+<body class="easyui-layout"  scroll="no">
+<noscript>
+<div style=" position:absolute; z-index:100000; height:2046px;top:0px;left:0px; width:100%; background:white; text-align:center;">
+    <img src="images/noscript.gif" alt='抱歉，请开启脚本支持！' />
+</div>
+</noscript>
+    <div data-options="region:'west'"  title="导航菜单" style="width:180px;" id="west">
+    <div class="easyui-accordion" data-options="fit:true,border:false">
+		<!--  导航内容--> 
+    <input type="button" onclick="create('/EnterpriseOrganize/Index?plugin=UserManagerPlugin', this)" value="企业目录管理"/>
+			
+	</div>
+    </div>
+    <div id="mainPanle" data-options="region:'center'" style="background: #eee;height:100%">
+        <div id="tabs" class="easyui-tabs"  data-options="fit:true,border:false" style="overflow:hidden" >
+			<div title="欢迎使用" style="padding:20px;overflow:hidden;" id="home">
+				
+			<h1>Welcome to jQuery UI!</h1>
+
+			</div>
+		</div>
+    </div>
+</body>
+</html>

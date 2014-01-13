@@ -19,11 +19,20 @@ namespace AppPlatform.UI.Controllers
         [HttpPost]
         public ActionResult LoginSuccess()
         {
-            ViewBag.Enterprise_ID = Request["Enterprise_ID"];
+            ViewBag.UserName = Request["UserID"];
             return View();
         }
 
         public ActionResult Create()
+        {
+            return View();
+        }
+        public ActionResult Logout()
+        {
+            return RedirectToAction("Login");
+        }
+
+        public ActionResult SystemManager()
         {
             return View();
         }
