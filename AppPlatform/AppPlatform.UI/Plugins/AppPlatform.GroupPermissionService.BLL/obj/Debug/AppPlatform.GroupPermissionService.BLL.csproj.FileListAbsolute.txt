@@ -4,3 +4,8 @@ F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.U
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.pdb
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\bin\AppPlatform.GroupPermissionService.BLL.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\bin\AppPlatform.GroupPermissionService.BLL.pdb
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.csprojResolveAssemblyReference.cache
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.pdb

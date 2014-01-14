@@ -8,3 +8,8 @@ F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.pdb
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\bin\Debug\UIShell.OSGi.MvcCore.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\bin\Debug\UIShell.OSGi.MvcCore.pdb
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.csprojResolveAssemblyReference.cache
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.pdb
