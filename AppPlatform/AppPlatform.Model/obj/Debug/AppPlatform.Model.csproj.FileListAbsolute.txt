@@ -1,0 +1,4 @@
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\AppPlatform.Model.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\AppPlatform.Model.pdb
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.pdb

@@ -139,6 +139,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\default.css" />
     <Content Include="Content\Image\foot-bg.png" />
     <Content Include="Content\Image\icons\16\book.png" />
     <Content Include="Content\Image\icons\16\cabinet.png" />
@@ -437,6 +438,7 @@
     <Content Include="Content\themes\default\images\Thumbs.db" />
     <Content Include="Content\themes\gray\images\Thumbs.db" />
     <Content Include="Content\themes\metro\images\Thumbs.db" />
+    <Content Include="Scripts\easyui-lang-zh_CN.js" />
     <Content Include="Scripts\jquery-1.8.0.min.js" />
     <Content Include="Scripts\jquery.easyui.min.js" />
     <Content Include="Scripts\_references.js" />
@@ -456,6 +458,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\Image\products\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />

@@ -1,0 +1,4 @@
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UserRegister.BLL\bin\Debug\AppPlatform.UserRegister.BLL.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UserRegister.BLL\bin\Debug\AppPlatform.UserRegister.BLL.pdb
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UserRegister.BLL\obj\Debug\AppPlatform.UserRegister.BLL.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UserRegister.BLL\obj\Debug\AppPlatform.UserRegister.BLL.pdb

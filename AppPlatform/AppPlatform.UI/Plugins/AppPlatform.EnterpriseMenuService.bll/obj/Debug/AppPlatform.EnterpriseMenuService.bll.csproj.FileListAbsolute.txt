@@ -4,3 +4,8 @@ F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.U
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.pdb
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\AppPlatform.EnterpriseMenuService.bll.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\AppPlatform.EnterpriseMenuService.bll.pdb
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.csprojResolveAssemblyReference.cache
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.dll
+C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.pdb
