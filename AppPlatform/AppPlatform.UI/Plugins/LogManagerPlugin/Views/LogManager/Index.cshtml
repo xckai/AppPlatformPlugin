@@ -7,11 +7,37 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
+    <title>日志管理</title>
+    <link href="~/Content/themes/default/easyui.css" rel="stylesheet" />
+    <link href="~/Content/themes/icon.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.8.0.min.js"></script>
+    <script src="~/Scripts/jquery.easyui.min.js"></script>
 </head>
 <body>
-    <div>
-        @ViewData["log"];
+<div>
+  <table class="easyui-datagrid"  style="width:auto;height:auto"
+            data-options="rownumbers:true,singleSelect:true,method:'get',toolbar:'#tb1'" pagination="true">
+                <thead>
+                    <tr>
+                        <th data-options="field:'LogName',width:100,align:'center'">日志名称</th>
+                        <th data-options="field:'UserName',width:100,align:'center'">日志创建人</th>
+                        <th data-options="field:'LogCreateTime',width:120,align:'center'">日志创建时间</th>
+                        <th data-options="field:'LogType',width:100,align:'center'">日志类型</th>
+                        <th data-options="field:'LogContent',width:500,align:'center'">日志内容</th>
+                    </tr>
+                </thead>
+            </table>
+    <div id="tb1" style="padding:5px;height:auto">
+        <div style="margin-bottom:5px">
+            <a href="#" class="easyui-linkbutton" iconCls="icon-save" plain="true">保存</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-remove" plain="true">删除</a>
+        </div>
+        <div>
+            开始时间: <input class="easyui-datebox" style="width:80px">
+            结束时间: <input class="easyui-datebox" style="width:80px">
+            <a href="#" class="easyui-linkbutton" iconCls="icon-search">搜索</a>
+        </div>
     </div>
+</div>
 </body>
 </html>

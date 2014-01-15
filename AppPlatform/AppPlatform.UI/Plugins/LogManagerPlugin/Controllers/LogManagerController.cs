@@ -12,11 +12,11 @@ namespace EnterpriseManagerPlugin.Controllers
         //
         // GET: /LogManager/
 
-        private readonly ILogService _logService = new LogService();
+       
         public ActionResult Index()
         {
-           ViewData["log"]= _logService.EnventLogGet();
-            return View();
+           
+           return PartialView();
         }
 
     }

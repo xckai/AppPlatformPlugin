@@ -19,7 +19,7 @@ namespace AppPlatform.LogService.BLL
 
         public string EnventLogGet()
         {
-            throw new NotImplementedException();
+            return "rrrr";
         }
 
         public string SystemLogGet()

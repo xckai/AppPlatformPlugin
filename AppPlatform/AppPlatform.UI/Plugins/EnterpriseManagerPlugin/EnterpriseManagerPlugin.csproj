@@ -125,7 +125,6 @@
   <ItemGroup>
     <Compile Include="Activator.cs" />
     <Compile Include="Controllers\EnterpriseClassController.cs" />
-    <Compile Include="Controllers\EnterpriseClassMenuController.cs" />
     <Compile Include="Controllers\EnterpriseInfoController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -207,7 +206,6 @@
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\EnterpriseInfo\Index.cshtml" />
-    <Content Include="Views\EnterpriseClassMenu\Index.cshtml" />
     <Content Include="Views\EnterpriseClass\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>

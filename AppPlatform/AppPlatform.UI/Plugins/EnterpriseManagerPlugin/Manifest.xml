@@ -13,7 +13,5 @@
     </item>
     <item url="/EnterpriseClass/Index?plugin=EnterpriseManagerPlugin" text="企业类别管理" order="0">
     </item>
-    <item url="/EnterpriseClassMenu/Index?plugin=EnterpriseManagerPlugin" text="企业类别目录" order="0">
-    </item>
   </Extension>
 </Bundle>
