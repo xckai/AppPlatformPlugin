@@ -40,17 +40,24 @@
 	<div  data-options="region:'center',fit:true">
         <div id="maintabs" class="easyui-tabs" data-options="tabWidth:112,fit:true" style="overflow:hidden" >
             <div title="平台首页" style="padding:10px;border:hidden">
-                <div style="float:left;margin-right:20px"> 
-                    <div id="AppList" class="easyui-panel" title="我的应用"  data-options="collapsible:true" style="width:400px;height:100%;padding:10px">
+                <div style="float:left;margin-left:40px"> 
+                    
+                         <div id="AppList" class="easyui-panel" title="我的应用"  data-options="collapsible:true" style="width:600px;height:500px;padding:10px">
                         <input type="button" onclick="create('SystemManager', this)" value="系统管理"/>
                         <input type="button" onclick="create('/AppStore/Index?plugin=AppManagerPlugin', this)" value="应用商店"/>
                         <input type="button" onclick="create('http://jeasyui.com/', this)" value="EasyUI"/>
-                    </div>
+                         </div>
                 </div>
-                <div style="float:left;margin-left:20px">
-                     <div id="TodoList" class="easyui-panel" title="我的任务" data-options="collapsible:true" style="width:400px;height:100%;padding:10px">
+                <div style="float:right;margin-right:40px">
+                    <div>
+                         <div id="TodoList" class="easyui-panel" title="我的任务" data-options="collapsible:true" style="width:600px;height:240px;padding:10px">
+                         </div>
                     </div>
-                </div>
+                 <div style="margin-top:20px">
+                     <div id="SystemMessage" class="easyui-panel" title="系统公告" data-options="collapsible:true" style="width:600px;height:240px;padding:10px" >
+                     </div>
+                 </div>
+               </div>
             </div>
         </div>
 	</div>
