@@ -8,10 +8,67 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Index</title>
+    <link href="~/Content/themes/default/easyui.css" rel="stylesheet" />
+    <link href="~/Content/themes/icon.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.8.0.min.js"></script>
+    <script src="~/Scripts/jquery.easyui.min.js"></script>
+
 </head>
 <body>
-    <div>
-        企业资料管理
+   <div class="easyui-layout" data-options="fit:true" >
+        <div data-options="region:'west',split:true" title="企业导航" style="width:200px;">
+            <div class="easyui-accordion" data-options="fit:true,border:false">
+                <div title="Title1" style="padding:10px;">
+                    <ul>
+                    	<li></li>
+                    </ul>>
+                </div>
+                <div title="Title2" data-options="selected:true" style="padding:10px;">
+                    content2
+                </div>
+                <div title="Title3" style="padding:10px">
+                    content3
+                </div>
+            </div>
+        </div>
+        <div data-options="region:'center',title:'企业信息'">
+        <table class="easyui-datagrid" 
+            data-options="method:'get',border:false,fit:true,singleSelect:true,fitColumns:true,toolbar:'#tb',pagination:true,
+                pageSize:10">
+        <thead>
+            <tr>
+                <th data-options="field:'EnterpriseName',width:80">企业名称</th>
+                <th data-options="field:'EnterpriseClass',width:100">企业类别</th>
+                <th data-options="field:'EnterpriseDes',width:80,align:'right'">企业描述</th>
+                <th data-options="field:'EnterpriseAdd',width:80,align:'right'">企业地址</th>
+                <th data-options="field:'EnterpriseContact',width:80,align:'right'">企业联系方式</th>
+            </tr>
+        </thead>
+    </table>
+    <div id="tb" style="padding:5px;height:auto">
+        <div style="margin-bottom:5px">
+            <a href="javascript:void(0)"  class="easyui-linkbutton" iconCls="icon-add" plain="true" onclick="$('#dlg').dialog('open')">添加</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-edit" plain="true">编辑</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-save" plain="true">保存</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-remove" plain="true">删除</a>
+        </div>
+        <div>
+            <input type="text" id="SearchText" />
+            <a href="#" class="easyui-linkbutton" iconCls="icon-search">搜索</a>
+        </div>
+        </div>
+   </div>
+        <div id="dlg" class="easyui-dialog" title="添加企业" style="width:400px;height:200px;padding:10px"
+            data-options="
+                iconCls: 'icon-save',
+                buttons: '#dlg-buttons',closed:true
+            ">
+       企业资料编辑
     </div>
+        <div id="dlg-buttons">
+        <a href="javascript:void(0)" class="easyui-linkbutton" onclick="javascript:alert('save')">Save</a>
+        <a href="javascript:void(0)" class="easyui-linkbutton" onclick="javascript:$('#dlg').dialog('close')">Close</a>
+    </div>
+ </div>
 </body>
 </html>

@@ -7,11 +7,47 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
+    <title>企业类别管理</title>
+    <link href="~/Content/themes/default/easyui.css" rel="stylesheet" />
+    <link href="~/Content/themes/icon.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.8.0.min.js"></script>
+    <script src="~/Scripts/jquery.easyui.min.js"></script>
 </head>
 <body>
-    <div>
-        企业类别管理
+    <div data-options="fit:true">
+        <table class="easyui-datagrid" 
+            data-options="rownumbers:true,singleSelect:true,toolbar:'#tb'">
+        <thead>
+            <tr>
+                <th data-options="field:'itemid',width:80">企业类别名称</th>
+                <th data-options="field:'productid',width:100">企业类别描述</th>
+                <th data-options="field:'listprice',width:80,align:'right'">备注</th>
+            </tr>
+        </thead>
+    </table>
+    <div id="tb" style="padding:5px;height:auto">
+        <div style="margin-bottom:5px">
+            <a href="javascript:void(0)"  class="easyui-linkbutton" iconCls="icon-add" plain="true" onclick="$('#dlg').dialog('open')">添加</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-edit" plain="true">编辑</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-save" plain="true">保存</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-remove" plain="true">删除</a>
+        </div>
+        <div>
+            类别名称: <input type="text" style="width:80px">
+            <a href="#" class="easyui-linkbutton" iconCls="icon-search">搜索</a>
+        </div>
+         <div id="dlg" class="easyui-dialog" title="添加新类别" style="width:400px;height:200px;padding:10px"
+            data-options="
+                iconCls: 'icon-save',
+                buttons: '#dlg-buttons',closed:true
+            ">
+       企业类别添加内容
     </div>
+        <div id="dlg-buttons">
+        <a href="javascript:void(0)" class="easyui-linkbutton" onclick="javascript:alert('save')">Save</a>
+        <a href="javascript:void(0)" class="easyui-linkbutton" onclick="javascript:$('#dlg').dialog('close')">Close</a>
+    </div>
+    </div>
+</div>
 </body>
 </html>
