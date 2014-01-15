@@ -14,7 +14,7 @@
     <script src="~/Scripts/jquery.easyui.min.js"></script>
 </head>
 <body>
-    <div class="easyui-layout" data-options="fit:true" style="overflow:visible">
+    <div class="easyui-layout" data-options="fit:true" >
         <div data-options="region:'west',split:true" title="应用导航" style="width:200px;">
             <div class="easyui-accordion" data-options="fit:true,border:false">
                 <div title="Title1" style="padding:10px;">
@@ -47,7 +47,7 @@
     </table>
     <div id="tb" style="padding:5px;height:auto">
         <div style="margin-bottom:5px">
-            <a href="#" class="easyui-linkbutton" iconCls="icon-add" plain="true">添加</a>
+            <a href="#" class="easyui-linkbutton" iconCls="icon-add" plain="true">添加</a>/*如果是应用订阅管理，是应用订阅，否则是应用发布*/
             <a href="#" class="easyui-linkbutton" iconCls="icon-edit" plain="true">编辑</a>
             <a href="#" class="easyui-linkbutton" iconCls="icon-save" plain="true">保存</a>
             <a href="#" class="easyui-linkbutton" iconCls="icon-remove" plain="true">删除</a>
@@ -58,5 +58,6 @@
         </div>
         </div>
    </div>
+ </div>
 </body>
 </html>

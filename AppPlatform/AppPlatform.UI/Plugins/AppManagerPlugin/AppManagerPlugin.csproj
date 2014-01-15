@@ -125,7 +125,6 @@
   <ItemGroup>
     <Compile Include="Activator.cs" />
     <Compile Include="Controllers\AppInfoController.cs" />
-    <Compile Include="Controllers\AppOrderedController.cs" />
     <Compile Include="Controllers\AppReleaseController.cs" />
     <Compile Include="Controllers\AppStoreController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -390,7 +389,6 @@
     <Content Include="Views\AppInfo\Index.cshtml" />
     <Content Include="Views\AppStore\Index.cshtml" />
     <Content Include="Views\AppRelease\Index.cshtml" />
-    <Content Include="Views\AppOrdered\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
