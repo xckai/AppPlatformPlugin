@@ -16,7 +16,7 @@ namespace EnterpriseManagerPlugin.Controllers
         public ActionResult Index()
         {
            
-           return PartialView();
+           return View();
         }
 
     }
