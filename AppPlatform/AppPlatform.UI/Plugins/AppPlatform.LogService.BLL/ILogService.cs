@@ -6,10 +6,11 @@ namespace AppPlatform.LogService.BLL
 {
     public interface ILogService
     {
-        void LogInfoWrite();
-        void LogerroWrite();
-        void logFatalWrite();
-        string LogGet();
-        void LogDelete();
+        bool EventLogWrite(object UserID,string UserName,string Message,object OperateObject,object LogType,Object OperateType);
+        bool SystemLogWrite(object UserID,string Message,Exception e);
+        string EnventLogGet();
+        string SystemLogGet();
+        bool EnventLogDelete();
+        bool SystemLogDelete();
     }
 }

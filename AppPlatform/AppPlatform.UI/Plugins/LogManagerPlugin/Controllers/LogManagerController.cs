@@ -15,7 +15,7 @@ namespace EnterpriseManagerPlugin.Controllers
         private readonly ILogService _logService = new LogService();
         public ActionResult Index()
         {
-           ViewData["log"]= _logService.LogGet();
+           ViewData["log"]= _logService.EnventLogGet();
             return View();
         }
 

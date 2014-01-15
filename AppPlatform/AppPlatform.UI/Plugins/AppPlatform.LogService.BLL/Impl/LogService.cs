@@ -6,27 +6,33 @@ namespace AppPlatform.LogService.BLL
 {
     public class LogService : ILogService
     {
-        public void LogInfoWrite()
+
+        public bool EventLogWrite(object UserID, string UserName, string Message, object OperateObject, object LogType, object OperateType)
         {
             throw new NotImplementedException();
         }
 
-        public void LogerroWrite()
+        public bool SystemLogWrite(object UserID, string Message, Exception e)
         {
             throw new NotImplementedException();
         }
 
-        public void logFatalWrite()
+        public string EnventLogGet()
         {
             throw new NotImplementedException();
         }
 
-        public string LogGet()
+        public string SystemLogGet()
         {
-            return "日志读取成功";
+            throw new NotImplementedException();
         }
 
-        public void LogDelete()
+        public bool EnventLogDelete()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool SystemLogDelete()
         {
             throw new NotImplementedException();
         }

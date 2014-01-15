@@ -12,11 +12,7 @@
   <Extension Point="MainMenu">
     <item url="/Group/Index?plugin=RoleManagerPlugin" text="组管理" order="0">
     </item>
-    <item url="/GroupPermission/Index?plugin=RoleManagerPlugin" text="组权限管理" order="0">
-    </item>
     <item url="/Role/Index?plugin=RoleManagerPlugin" text="角色管理" order="0">
-    </item>
-    <item url="/RolePermission/Index?plugin=RoleManagerPlugin" text="角色权限管理" order="0">
     </item>
   </Extension>
 </Bundle>

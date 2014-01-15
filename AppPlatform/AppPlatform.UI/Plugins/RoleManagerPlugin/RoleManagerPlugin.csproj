@@ -125,9 +125,7 @@
   <ItemGroup>
     <Compile Include="Activator.cs" />
     <Compile Include="Controllers\GroupController.cs" />
-    <Compile Include="Controllers\GroupPermissionController.cs" />
     <Compile Include="Controllers\RoleController.cs" />
-    <Compile Include="Controllers\RolePermissionController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
