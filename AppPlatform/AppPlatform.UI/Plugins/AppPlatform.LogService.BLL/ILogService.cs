@@ -6,11 +6,9 @@ namespace AppPlatform.LogService.BLL
 {
     public interface ILogService
     {
-        bool EventLogWrite(object UserID,string UserName,string Message,object OperateObject,object LogType,Object OperateType);
-        bool SystemLogWrite(object UserID,string Message,Exception e);
-        string EnventLogGet();
-        string SystemLogGet();
-        bool EnventLogDelete();
-        bool SystemLogDelete();
+        bool   LogWrite(object Log);//log 是一个log对象
+        string LogGet(object Object);//返回应该是一个Log的list
+        string LogGet(object StartTime, object EndTime);//返回应该是一个Log的list
+        bool   LogDelete(object LogID);
     }
 }

@@ -6,10 +6,11 @@ namespace AppPlatform.GroupService.BLL
 {
     public interface IGroupService
     {
-        void UserGroupInfoGet();
-        void UserGroupAdd();
-        void UserGruopDelete();
-        void UserGroupUpdate();
+        void GroupListGet();
+        void GroupInfoGet(object GroupID);
+        bool GroupAdd(object Group);
+        bool GroupUpdate(object Group);
+        bool GroupDelete(object GroupID);
 
     }
 }

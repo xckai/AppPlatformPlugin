@@ -6,22 +6,23 @@ namespace AppPlatform.RoleService.BLL
 {
     public class RoleService : IRoleService
     {
-        public void RoleGet()
+
+        public void RoleGet(object RoleID)
         {
             throw new NotImplementedException();
         }
 
-        public void RoleAdd()
+        public bool RoleAdd(object Role)
         {
             throw new NotImplementedException();
         }
 
-        public void RoleDelete()
+        public bool RoleDelete(object RoleID)
         {
             throw new NotImplementedException();
         }
 
-        public void RoleUpdate()
+        public bool RoleUpdate(object Role)
         {
             throw new NotImplementedException();
         }

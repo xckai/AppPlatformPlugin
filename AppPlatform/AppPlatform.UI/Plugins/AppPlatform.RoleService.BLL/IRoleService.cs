@@ -6,9 +6,9 @@ namespace AppPlatform.RoleService.BLL
 {
     public interface IRoleService
     {
-        void RoleGet();
-        void RoleAdd();
-        void RoleDelete();
-        void RoleUpdate();
+        void RoleGet(object RoleID);//返回是一个Role类型的列表
+        bool RoleAdd(object Role);
+        bool RoleDelete(object RoleID);
+        bool RoleUpdate(object Role);
     }
 }

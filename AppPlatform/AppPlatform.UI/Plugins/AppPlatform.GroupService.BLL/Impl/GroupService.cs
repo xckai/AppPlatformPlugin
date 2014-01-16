@@ -6,22 +6,27 @@ namespace AppPlatform.GroupService.BLL
 {
     public class GroupService : IGroupService
     {
-        public void UserGroupInfoGet()
+        public void GroupListGet()
         {
             throw new NotImplementedException();
         }
 
-        public void UserGroupAdd()
+        public void GroupInfoGet(object GroupID)
         {
             throw new NotImplementedException();
         }
 
-        public void UserGruopDelete()
+        public bool GroupAdd(object Group)
         {
             throw new NotImplementedException();
         }
 
-        public void UserGroupUpdate()
+        public bool GroupUpdate(object Group)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool GroupDelete(object GroupID)
         {
             throw new NotImplementedException();
         }

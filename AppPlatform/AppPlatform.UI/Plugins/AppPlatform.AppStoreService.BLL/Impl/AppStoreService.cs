@@ -6,17 +6,13 @@ namespace AppPlatform.AppStoreService.BLL
 {
     public class AppStoreService : IAppstoreService
     {
-        public void AppSearch()
+
+        public void AppSearch(object Text)
         {
             throw new NotImplementedException();
         }
 
-        public void AppInfoGet()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void AppOrder()
+        public bool AppOrder(object App)
         {
             throw new NotImplementedException();
         }

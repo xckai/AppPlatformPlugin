@@ -6,9 +6,10 @@ namespace AppPlatform.UserInformationService.BLL
 {
     public interface IUserInfoService
     {
-        void UserInfoGet();
-        void UserInfoUpdate();
-        void UserInfoAdd();
-        void UserInfoDelete();
+        void UserLIstGet();
+        void UserInfoGet(object UserInfoID);
+        bool UserInfoUpdate(object UserInfo);
+        bool UserInfoAdd(object UserInfo);
+        bool UserInfoDelete(object UserInfoID);
     }
 }

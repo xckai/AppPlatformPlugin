@@ -6,22 +6,13 @@ namespace AppPlatform.UserAccountService.BLL
 {
     public class UserAccountService : IUserAccountService
     {
-        public void AccountPermissionSet()
+
+        public void AccountInfoGet(object AccountInfoID)
         {
             throw new NotImplementedException();
         }
 
-        public void AccountInfoGet()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void AccountInfoUpadate()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void AccountAdd()
+        public void AccountInfoUpadate(object AccountInfo)
         {
             throw new NotImplementedException();
         }

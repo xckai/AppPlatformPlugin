@@ -6,10 +6,10 @@ namespace AppPlatform.EnterpriseMenuService.bll
 {
     public interface IEnterpriseMenuService
     {
-        void EnterpriseMenuGet();
-        void EnterpriseMenuUpdate();
-        void EnterpriseMenuDelete();
-        void EnterpriseMenuAdd();
+        void EnterpriseMenuGet(object EnterpriseMenuID);
+        bool EnterpriseMenuUpdate(object EnterpriseMenu);
+        bool EnterpriseMenuDelete(object EnterpriseMenuID);
+        bool EnterpriseMenuAdd(object EnterpriseMenu);
 
     }
 }

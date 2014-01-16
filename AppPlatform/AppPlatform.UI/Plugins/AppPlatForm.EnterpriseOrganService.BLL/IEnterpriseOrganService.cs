@@ -7,8 +7,9 @@ namespace AppPlatForm.EnterpriseOrganService.BLL
     public interface IEnterpriseOrganService
     {
         void EnterpriseOrganListGet();
-        void EnterPriseOrganAdd();
-        void EnterPriseOrganRemove();
-        void EnterPriseOrganUpdate();
+        void EnterPriseOrganGet(object EnterPriseOrganID);
+        bool EnterPriseOrganAdd(object EnterpriseOrgan);
+        bool EnterPriseOrganRemove(object EnterpriseOrganID);
+        bool EnterPriseOrganUpdate(object EnterpriseOrgan);
     }
 }

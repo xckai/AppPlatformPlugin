@@ -7,17 +7,18 @@ namespace AppPlatform.UserRoleService.BLL
     public class UserRoleService : IUserRoleService
     {
 
-        public void UserRoleGet()
+
+        public void UserRoleGet(object UserID)
         {
             throw new NotImplementedException();
         }
 
-        public void UserRoleAdd()
+        public void UserRoleAdd(object UserID, object RoleID)
         {
             throw new NotImplementedException();
         }
 
-        public void UserRoleDelete()
+        public void UserRoleDelete(object UserID, object RoleID)
         {
             throw new NotImplementedException();
         }

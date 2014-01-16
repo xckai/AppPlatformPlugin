@@ -6,17 +6,18 @@ namespace AppPlatform.AppReleaseService.BLL
 {
     public class AppReleaseService : IAppReleaseService
     {
-        public void AppUpload()
+
+        public bool AppUpload(object App)
         {
             throw new NotImplementedException();
         }
 
-        public void AppUpdate()
+        public bool AppUpdate(object App)
         {
             throw new NotImplementedException();
         }
 
-        public void AppDelete()
+        public bool AppDelete(object App)
         {
             throw new NotImplementedException();
         }

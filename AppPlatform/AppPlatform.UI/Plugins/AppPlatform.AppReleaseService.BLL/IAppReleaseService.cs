@@ -6,9 +6,9 @@ namespace AppPlatform.AppReleaseService.BLL
 {
     public interface IAppReleaseService
     {
-        void AppUpload();
-        void AppUpdate();
-        void AppDelete();
+        bool AppUpload(object App);
+        bool AppUpdate(object App);
+        bool AppDelete(object App);
 
     }
 }

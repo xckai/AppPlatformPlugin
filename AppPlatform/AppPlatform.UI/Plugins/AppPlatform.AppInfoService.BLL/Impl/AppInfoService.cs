@@ -6,27 +6,28 @@ namespace AppPlatform.AppInfoService.BLL
 {
     public class AppInfoService : IAppInfoService
     {
+
         public void AppListGet()
         {
             throw new NotImplementedException();
         }
 
-        public void AppInfoGet()
+        public void AppInfoGet(object AppID)
         {
             throw new NotImplementedException();
         }
 
-        public void AppInfoCreate()
+        public bool AppInfoCreate(object AppInfo)
         {
             throw new NotImplementedException();
         }
 
-        public void AppInfoUpdate()
+        public bool AppInfoUpdate(object AppInfo)
         {
             throw new NotImplementedException();
         }
 
-        public void AppDelete()
+        public bool AppDelete(object AppID)
         {
             throw new NotImplementedException();
         }

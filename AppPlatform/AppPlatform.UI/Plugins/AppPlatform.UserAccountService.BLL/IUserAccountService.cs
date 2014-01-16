@@ -6,9 +6,7 @@ namespace AppPlatform.UserAccountService.BLL
 {
     public interface IUserAccountService
     {
-        void AccountPermissionSet();
-        void AccountInfoGet();
-        void AccountInfoUpadate();
-        void AccountAdd();
+        void AccountInfoGet(object AccountInfoID);
+        void AccountInfoUpadate(object AccountInfo);
     }
 }

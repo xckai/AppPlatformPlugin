@@ -12,17 +12,12 @@ namespace AppPlatform.AppOrderService.BLL
             throw new NotImplementedException();
         }
 
-        public void AppOrderDelete()
+        public bool AppOrderDelete(object AppID)
         {
             throw new NotImplementedException();
         }
 
-        public void AppOrderInfoGet()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void AppPermissionSet()
+        public void AppOrderInfoGet(object AppID)
         {
             throw new NotImplementedException();
         }

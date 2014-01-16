@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" SymbolicName="AppPlatform.AppClassService.BLL" Name="AppPlatform.AppClassService.BLL" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="AppPlatform.AppClassService.BLL.Activator"/>
+  <Runtime>
+    <Assembly Path="bin\AppPlatform.AppClassService.BLL.dll" Share="true"/>
+  </Runtime>
+</Bundle>

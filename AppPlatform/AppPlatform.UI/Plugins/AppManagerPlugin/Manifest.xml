@@ -12,11 +12,9 @@
   <Extension Point="MainMenu">
     <item url="/AppInfo/Index?plugin=AppManagerPlugin" text="应用信息管理" order="0">
     </item>
-    <item url="/AppOrdered/Index?plugin=AppManagerPlugin" text="已订阅应用管理" order="0">
-    </item>
-    <item url="/AppRelease/Index?plugin=AppManagerPlugin" text="应用发布管理" order="0">
-    </item>
     <item url="/AppStore/Index?plugin=AppManagerPlugin" text="应用商店" order="0">
+    </item>
+    <item url="/AppRelease/Index?plugin=AppManagerPlugin" text="应用发布" order="0">
     </item>
   </Extension>
 </Bundle>

@@ -6,8 +6,10 @@ namespace AppPlatform.EnterpriseInfoService.BLL
 {
     public interface IEnterpriseInfoService
     {
-        void EnterpriseInfoGet();
-        void EnterpriseInfoAdd();
-        void EnterpriseInfoUpdate();
+        void EnterpriseInfoGet(object EnterpriseID);
+        void EnterpriseListGet(object EnterpriseClassID);
+        bool EnterpriseInfoAdd(object EnterpriseInfo);
+        void EnterpriseInfoUpdate(object EnterpriseInfo);
+        bool EnterpriseInfoRemove(object EnterpriseID);
     }
 }

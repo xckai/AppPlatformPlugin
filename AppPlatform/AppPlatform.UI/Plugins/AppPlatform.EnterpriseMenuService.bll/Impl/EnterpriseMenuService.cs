@@ -6,22 +6,23 @@ namespace AppPlatform.EnterpriseMenuService.bll
 {
     public class EnterpriseMenuService : IEnterpriseMenuService
     {
-        public void EnterpriseMenuGet()
+
+        public void EnterpriseMenuGet(object EnterpriseMenuID)
         {
             throw new NotImplementedException();
         }
 
-        public void EnterpriseMenuUpdate()
+        public bool EnterpriseMenuUpdate(object EnterpriseMenu)
         {
             throw new NotImplementedException();
         }
 
-        public void EnterpriseMenuDelete()
+        public bool EnterpriseMenuDelete(object EnterpriseMenuID)
         {
             throw new NotImplementedException();
         }
 
-        public void EnterpriseMenuAdd()
+        public bool EnterpriseMenuAdd(object EnterpriseMenu)
         {
             throw new NotImplementedException();
         }

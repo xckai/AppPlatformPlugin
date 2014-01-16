@@ -6,9 +6,9 @@ namespace AppPlatform.UserRoleService.BLL
 {
     public interface IUserRoleService
     {
-        void UserRoleGet();
-        void UserRoleAdd();
-        void UserRoleDelete();
+        void UserRoleGet(object UserID);
+        void UserRoleAdd(object UserID,object RoleID);
+        void UserRoleDelete(object UserID,object RoleID);
 
     }
 }

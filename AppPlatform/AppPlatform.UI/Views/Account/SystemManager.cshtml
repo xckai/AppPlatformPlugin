@@ -44,9 +44,10 @@
           {
                                 foreach (var mainMenuItem in viewModel.MainMenuItems.OrderBy(item => item.Order))
                                 {
-                                   
-                                   <input type="button" id="@mainMenuItem.URL" onclick="create(this)" value="@mainMenuItem.Text" />
-                                  
+                                   if(mainMenuItem.Text!="应用商店")
+                                   {
+                                       <input type="button" id="@mainMenuItem.URL" onclick="create(this)" value="@mainMenuItem.Text" style="width:100%"/> 
+                                   }
                                 }
                             }
            } 

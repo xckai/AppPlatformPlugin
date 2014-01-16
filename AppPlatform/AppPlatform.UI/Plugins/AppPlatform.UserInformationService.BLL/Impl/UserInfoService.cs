@@ -6,22 +6,28 @@ namespace AppPlatform.UserInformationService.BLL
 {
     public class UserInfoService : IUserInfoService
     {
-        public void UserInfoGet()
+
+        public void UserLIstGet()
         {
             throw new NotImplementedException();
         }
 
-        public void UserInfoUpdate()
+        public void UserInfoGet(object UserInfoID)
         {
             throw new NotImplementedException();
         }
 
-        public void UserInfoAdd()
+        public bool UserInfoUpdate(object UserInfo)
         {
             throw new NotImplementedException();
         }
 
-        public void UserInfoDelete()
+        public bool UserInfoAdd(object UserInfo)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool UserInfoDelete(object UserInfoID)
         {
             throw new NotImplementedException();
         }

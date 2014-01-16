@@ -7,8 +7,7 @@ namespace AppPlatform.AppOrderService.BLL
     public interface IAppOrderService
     {
         void AppOrderListGet();
-        void AppOrderDelete();
-        void AppOrderInfoGet();
-        void AppPermissionSet();
+        bool AppOrderDelete(object AppID);
+        void AppOrderInfoGet(object AppID);
     }
 }

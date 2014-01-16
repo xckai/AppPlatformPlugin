@@ -6,22 +6,28 @@ namespace AppPlatForm.EnterpriseOrganService.BLL
 {
     public class EnterpriseOrganService : IEnterpriseOrganService
     {
+
         public void EnterpriseOrganListGet()
         {
             throw new NotImplementedException();
         }
 
-        public void EnterPriseOrganAdd()
+        public void EnterPriseOrganGet(object EnterPriseOrganID)
         {
             throw new NotImplementedException();
         }
 
-        public void EnterPriseOrganRemove()
+        public bool EnterPriseOrganAdd(object EnterpriseOrgan)
         {
             throw new NotImplementedException();
         }
 
-        public void EnterPriseOrganUpdate()
+        public bool EnterPriseOrganRemove(object EnterpriseOrganID)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool EnterPriseOrganUpdate(object EnterpriseOrgan)
         {
             throw new NotImplementedException();
         }

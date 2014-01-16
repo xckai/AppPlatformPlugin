@@ -6,8 +6,7 @@ namespace AppPlatform.AppStoreService.BLL
 {
     public interface IAppstoreService
     {
-        void AppSearch();
-        void AppInfoGet();
-        void AppOrder();
+        void AppSearch(object Text);
+        bool AppOrder(object App);
     }
 }

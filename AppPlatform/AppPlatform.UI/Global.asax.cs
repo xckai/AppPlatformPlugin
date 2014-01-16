@@ -51,11 +51,6 @@ namespace AppPlatform.UI
             ViewModel = new ApplicationViewModel();
 
             //Register pages in Shell project.
-            ViewModel.MainMenuItems.Add(new MenuItem
-            {
-                Text = "返回登录页面",
-                URL = "/"
-            });
 
             BundleRuntime.Instance.AddService<ApplicationViewModel>(ViewModel);
             _extensionHooker = new ExtensionHooker(BundleRuntime.Instance.GetFirstOrDefaultService<IExtensionManager>());

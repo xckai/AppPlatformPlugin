@@ -6,9 +6,9 @@ namespace AppPlatform.EnterpriseClassService.BLL
 {
     public interface IEnterpriseClassService
     {
-        void EnterPriseClassGet();
-        void EnterPriseClassUpdate();
-        void EnterPriseClassDelete();
-        void EnterPriseClassAdd();
+        void EnterPriseClassGet(object EnterpriseClassID);
+        void EnterPriseClassUpdate(object EnterpriseClassID, object EnterpriseClassName,object Des);
+        void EnterPriseClassDelete(object EnterpriseClassID);
+        void EnterPriseClassAdd(object EnterpriseClassName, object Des);
     }
 }
