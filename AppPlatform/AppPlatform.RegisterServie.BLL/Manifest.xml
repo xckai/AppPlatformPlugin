@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" SymbolicName="AppPlatform.RegisterServie.BLL" Name="AppPlatform.RegisterServie.BLL" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="AppPlatform.RegisterServie.BLL.Activator"/>
+  <Runtime>
+    <Assembly Path="bin\AppPlatform.RegisterServie.BLL.dll" Share="true"/>
+  </Runtime>
+</Bundle>

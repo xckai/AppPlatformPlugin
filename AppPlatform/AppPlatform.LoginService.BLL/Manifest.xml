@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Bundle xmlns="urn:uiosp-bundle-manifest-2.0" SymbolicName="AppPlatform.LoginService.BLL" Name="AppPlatform.LoginService.BLL" Version="1.0.0.0" InitializedState="Active">
+  <Activator Type="AppPlatform.LoginService.BLL.Activator"/>
+  <Runtime>
+    <Assembly Path="bin\AppPlatform.LoginService.BLL.dll" Share="true"/>
+  </Runtime>
+</Bundle>

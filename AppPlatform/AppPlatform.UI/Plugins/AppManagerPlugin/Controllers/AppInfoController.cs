@@ -13,6 +13,7 @@ namespace EnterpriseManagerPlugin.Controllers
 
         public ActionResult Index()
         {
+
             return View();
         }
 
