@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52CF0184-191E-4005-9B30-6EAEC8D363FA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AppPlatform.IDAL</RootNamespace>
+    <AssemblyName>AppPlatform.IDAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AppPlatform.Model">
+      <HintPath>..\AppPlatform.Model\bin\Debug\AppPlatform.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IAppClassRepository.cs" />
+    <Compile Include="IAppRepository.cs" />
+    <Compile Include="IApp_AppClassRepository.cs" />
+    <Compile Include="IApp_RoleRepository.cs" />
+    <Compile Include="IBaseRepository.cs" />
+    <Compile Include="IEnterpriseClassRepository.cs" />
+    <Compile Include="IEnterpriseRepository.cs" />
+    <Compile Include="IEnterprise_AppRepository.cs" />
+    <Compile Include="IEnterprise_EnterpriseClassRepository.cs" />
+    <Compile Include="IFunctionRepository.cs" />
+    <Compile Include="IGroupRepository.cs" />
+    <Compile Include="IGroup_FunctionRepository.cs" />
+    <Compile Include="IInternalOrganizationRepository.cs" />
+    <Compile Include="IInternal_AuthorizationRepository.cs" />
+    <Compile Include="IJournalRepository.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="IRoleRepository.cs" />
+    <Compile Include="ITaskListRepository.cs" />
+    <Compile Include="IUserRepository.cs" />
+    <Compile Include="IUser_GroupRepository.cs" />
+    <Compile Include="IUser_InternalOrganizationRepository.cs" />
+    <Compile Include="IUser_Internal_AuthorizationRepository.cs" />
+    <Compile Include="IUser_RoleRepository.cs" />
+    <Compile Include="IUser_TaskRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -29,8 +29,18 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,7 +50,34 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Models\AppClass.cs" />
+    <Compile Include="Models\App.cs" />
+    <Compile Include="Models\Function.cs" />
+    <Compile Include="Models\Group_Function.cs" />
+    <Compile Include="Models\Internal_Authorization.cs" />
+    <Compile Include="Models\App_Role.cs" />
+    <Compile Include="Models\App_AppClass.cs" />
+    <Compile Include="Models\EnterpriseClass.cs" />
+    <Compile Include="Models\Enterprise.cs" />
+    <Compile Include="Models\Enterprise_AppContext.cs" />
+    <Compile Include="Models\Enterprise_App.cs" />
+    <Compile Include="Models\Enterprise_EnterpriseClass.cs" />
+    <Compile Include="Models\InternalOrganization.cs" />
+    <Compile Include="Models\Journal.cs" />
+    <Compile Include="Models\Role.cs" />
+    <Compile Include="Models\Group.cs" />
+    <Compile Include="Models\TaskList.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Models\User_Internal_Authorization.cs" />
+    <Compile Include="Models\User_Role.cs" />
+    <Compile Include="Models\User_InternalOrganization.cs" />
+    <Compile Include="Models\User_Group.cs" />
+    <Compile Include="Models\User_Task.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
