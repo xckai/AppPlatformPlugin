@@ -7,7 +7,8 @@ namespace AppPlatform.Model.Models
     {
         static Enterprise_AppContext()
         {
-            Database.SetInitializer<Enterprise_AppContext>(null);
+            //Database.SetInitializer<Enterprise_AppContext>(null);
+              Database.SetInitializer(new DropCreateDatabaseIfModelChanges<Enterprise_AppContext>());
         }
 
         public Enterprise_AppContext()
