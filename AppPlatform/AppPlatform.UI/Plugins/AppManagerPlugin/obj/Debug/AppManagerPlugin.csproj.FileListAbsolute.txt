@@ -94,7 +94,6 @@ F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.U
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\obj\Debug\AppManagerPlugin.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\obj\Debug\AppManagerPlugin.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\bin\AppManagerPlugin.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\bin\AppManagerPlugin.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\bin\Microsoft.Web.Infrastructure.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\bin\System.Net.Http.Formatting.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\bin\System.Web.Http.dll
@@ -125,3 +124,4 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManag
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\obj\Debug\AppManagerPlugin.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\obj\Debug\AppManagerPlugin.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\obj\Debug\AppManagerPlugin.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppManagerPlugin\bin\AppManagerPlugin.pdb
