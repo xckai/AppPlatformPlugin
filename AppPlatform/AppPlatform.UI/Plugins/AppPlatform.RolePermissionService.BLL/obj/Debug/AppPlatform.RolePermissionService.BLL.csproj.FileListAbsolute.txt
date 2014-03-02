@@ -9,3 +9,9 @@ C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlug
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.RolePermissionService.BLL\obj\Debug\AppPlatform.RolePermissionService.BLL.csprojResolveAssemblyReference.cache
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.RolePermissionService.BLL\obj\Debug\AppPlatform.RolePermissionService.BLL.dll
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.RolePermissionService.BLL\obj\Debug\AppPlatform.RolePermissionService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.RolePermissionService.BLL\bin\AppPlatform.RolePermissionService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.RolePermissionService.BLL\bin\AppPlatform.RolePermissionService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.RolePermissionService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.RolePermissionService.BLL\obj\Debug\AppPlatform.RolePermissionService.BLL.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.RolePermissionService.BLL\obj\Debug\AppPlatform.RolePermissionService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.RolePermissionService.BLL\obj\Debug\AppPlatform.RolePermissionService.BLL.pdb

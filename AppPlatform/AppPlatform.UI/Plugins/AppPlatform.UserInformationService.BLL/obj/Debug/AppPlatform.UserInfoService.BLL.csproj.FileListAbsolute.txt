@@ -15,3 +15,9 @@ C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlug
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInfoService.BLL.csprojResolveAssemblyReference.cache
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInformationService.BLL.dll
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInformationService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\bin\AppPlatform.UserInformationService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\bin\AppPlatform.UserInformationService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInfoService.BLL.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInformationService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInformationService.BLL.pdb

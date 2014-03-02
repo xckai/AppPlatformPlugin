@@ -1,0 +1,5 @@
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.pdb

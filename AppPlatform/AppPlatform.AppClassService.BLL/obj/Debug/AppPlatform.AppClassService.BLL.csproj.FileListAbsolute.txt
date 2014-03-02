@@ -1,0 +1,5 @@
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\bin\AppPlatform.AppClassService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\bin\AppPlatform.AppClassService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\obj\Debug\AppPlatform.AppClassService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\obj\Debug\AppPlatform.AppClassService.BLL.pdb

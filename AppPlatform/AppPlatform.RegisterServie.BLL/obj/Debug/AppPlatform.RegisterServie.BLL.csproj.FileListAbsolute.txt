@@ -1,0 +1,5 @@
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\AppPlatform.RegisterServie.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\AppPlatform.RegisterServie.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.pdb
