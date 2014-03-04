@@ -254,7 +254,6 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.R
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.xml
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Deployment.xml
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Razor.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\EntityFramework.resources.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Http.resources.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
@@ -268,6 +267,7 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\Syst
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.pdb
+<<<<<<< HEAD
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.pdb
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Antlr3.Runtime.dll
@@ -314,3 +314,15 @@ C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.U
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.csprojResolveAssemblyReference.cache
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.pdb
+=======
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.LoginService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.Model.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.DAL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.IDAL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.LoginService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.Model.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.DAL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.IDAL.pdb
+>>>>>>> ab618932c37ef1de7ff9822e6df6e93e84c87cb3

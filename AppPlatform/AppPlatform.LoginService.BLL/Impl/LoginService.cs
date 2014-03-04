@@ -11,7 +11,7 @@ namespace AppPlatform.LoginService.BLL
 {
     public class LoginService : ILoginService
     {
-        public AppplatformCommon.UserLoginInfo userLoginInfo;
+        public AppplatformCommon.UserLoginInfo userLoginInfo=new AppplatformCommon.UserLoginInfo();
 
         public AppplatformCommon.UserLoginInfo LoginAuthen(int EnterpriseID, int UserID, string PassWord)
         {
