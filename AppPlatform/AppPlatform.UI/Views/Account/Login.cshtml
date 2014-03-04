@@ -15,32 +15,102 @@
     @*@Styles.Render("~/Content/themes/default/easyui.css") 
     @Scripts.Render("~/Scripts/jquery-1.8.0.min.js")
     @Scripts.Render("~/Scripts/jquery.easyui.min.js")*@
+    <style type="text/css">
+        .code {
+            background-image:url(code.jpg);
+            font-family:Arial;
+            font-style:italic;
+            color:red;
+            border:0;
+            padding:2px,3px;
+            letter-spacing:3px;
+            font-weight:bolder;
+        }
+    </style>
 </head>
 <body class="easyui-layout">
     <script type="text/javascript">
+        $(function () {
+            createCode();
+        })
         function checkEntID() {
             var error = document.getElementById("EnterpriseIDerr")
             var EnID = document.getElementsByName("EnterpriseID")
-            if (EnID[0].value.length <= 0)
+            if (EnID[0].value.length <= 0) {
                 error.innerHTML = "*企业Id不能为空";
-            else
+                return false;
+            }
+            else {
                 error.innerHTML = "";
+                return true;
+            }
         }
         function checkUseID() {
             var error = document.getElementById("UserIDerr")
             var EnID = document.getElementsByName("UserID")
-            if (EnID[0].value.length <= 0)
+            if (EnID[0].value.length <= 0) {
                 error.innerHTML = "*用户名不能为空";
-            else
+                return false
+            }
+            else {
                 error.innerHTML = "";
+                return true;
+            }
         }
         function checkPasWD() {
             var error = document.getElementById("Passworderr")
             var EnID = document.getElementsByName("Password")
-            if (EnID[0].value.length <= 0)
+            if (EnID[0].value.length <= 0) {
                 error.innerHTML = "*密码不能为空";
-            else
+                return false;
+            }
+            else {
                 error.innerHTML = "";
+                return true;
+            }
+        }
+        var code;
+        function createCode() {
+            code = "";
+            var codelength = 6;
+            var checkCode = document.getElementById("checkcode");
+            var selectChar = new Array(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z');
+            for (var i = 0; i < codelength; i++) {
+                var charIndex = Math.floor(Math.random() * 36);
+                code += selectChar[charIndex];
+            }
+            if (checkCode) {
+                checkCode.className = "code";
+                checkCode.value = code;
+            }
+        }
+        function checkPIN() {
+            var inputcode = document.getElementsByName("PIN");
+            var Perr = document.getElementById("PINerr");
+            if (inputcode[0].value.length <= 0) {
+                Perr.innerHTML = "*验证码不能为空";
+                return false;
+            }
+            else if (inputcode[0].value != code) {
+                Perr.innerHTML = "*验证码输入错误";
+                return false;
+            }
+            else {
+                Perr.innerHTML = "";
+                return true;
+            }
+        }
+        function Validate() {
+            var eid = checkEntID();
+            var uid = checkUseID();
+            var pwd = checkPasWD();
+            var pin = checkPIN();
+            if (eid&& uid && pwd && pin) {
+                return true;
+            }
+            else {
+                return false;
+            }
         }
     </script>
 <div  data-options="region:'north'"  style="height:70px;overflow:hidden">
@@ -50,27 +120,32 @@
     <img src="~/Content/Image/logo.png" />
 </div>
 <div data-options="region:'center'"  style="width:auto;background-color:#fcfefc;border:hidden;overflow:hidden;padding-top:60px">
-     <div style="width:400px;height:345px;background-color:#fcfefc">
+     <div style="width:450px;height:345px;background-color:#fcfefc">
          <div style="border-bottom:2px solid rgba(167, 163, 163, 0.27)"><h1>欢迎登录</h1></div>
         <div style="padding:0 0 0 50px;margin-top:10px">
         <form id="LoginForm" method="post" action="Account/LoginSuccess">
             <div>
                 <div>
-                   <p style="font-size:20px">企业ID:<input class="easyui-validatebox" type="text" name="EnterpriseID" onblur="checkEntID()" style="height:20px;width:200px;border-radius:2px"/><span id="EnterpriseIDerr" style="color:red;font-size:15px"></span></p>
+                   <p style="font-size:20px">企业ID:<input onblur="checkEntID()" class="easyui-validatebox" type="text" name="EnterpriseID" style="height:20px;width:200px;border-radius:2px"/>
+                       <span id="EnterpriseIDerr" style="color:red;font-size:15px"></span></p>
                 </div>
                 <div>
-                    <p style="font-size:20px">用户名:<input  type="text" name="UserID" onblur="checkUseID()" style="height:20px;width:200px;border-radius:2px"/><span id="UserIDerr" style="color:red;font-size:15px"></span></p>
+                    <p style="font-size:20px">用户名:<input onblur="checkUseID()"  type="text" name="UserID" style="height:20px;width:200px;border-radius:2px"/>
+                        <span id="UserIDerr" style="color:red;font-size:15px"></span></p>
                 </div>
                 <div>
-                    <p style="font-size:20px">密<a style="opacity:0">密</a>码:<input  type="password" name="Password" onblur="checkPasWD()" style="height:20px;width:200px;border-radius:2px"/><span id="Passworderr" style="color:red;font-size:15px"></span></p>
+                    <p style="font-size:20px">密<a style="opacity:0">密</a>码:<input onblur="checkPasWD()"  type="password" name="Password"  style="height:20px;width:200px;border-radius:2px"/>
+                        <span id="Passworderr" style="color:red;font-size:15px"></span></p>
                 </div>
                 <div>
-                 <p style="font-size:20px">验证码:<input type="text" name="PIN" data-options="required:true" style="height:20px;width:100px;border-radius:2px"/>
+                 <p style="font-size:20px">验证码:<input onblur="checkPIN()" type="text" name="PIN"  style="height:20px;width:100px;border-radius:2px"/>
+                     <input type="text" onclick="createCode()" readonly="readonly" id="checkcode" style="height:20px;width:80px;border:0;cursor:pointer" />
+                     <span id="PINerr" style="color:red;font-size:12px"></span>
                      </p>
                 </div>
                 <div style="border-top:2px solid rgba(167, 163, 163, 0.27)">
                     <div style="float:right;margin:5px"> <a href="/Account/Create" class="easyui-linkbutton" style="font-size:15px">注&nbsp&nbsp册</a></div>
-                    <div style="float:right;margin:5px"><Button  id="Submit" type="submit" style="border-radius:15px;font-size:15px;width:75px;background-color:#f1f1f1" >登&nbsp&nbsp录</Button></div>
+                    <div style="float:right;margin:5px"><Button  id="Submit" type="submit" onclick="return Validate()" style="border-radius:15px;font-size:15px;width:75px;background-color:#f1f1f1" >登&nbsp&nbsp录</Button></div>
                 </div>
             </div>
         </form>
