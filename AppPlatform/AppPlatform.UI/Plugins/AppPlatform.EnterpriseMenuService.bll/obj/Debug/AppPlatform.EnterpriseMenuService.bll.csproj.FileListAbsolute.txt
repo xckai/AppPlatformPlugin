@@ -10,8 +10,3 @@ F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.U
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\AppPlatform.EnterpriseMenuService.bll.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\AppPlatform.EnterpriseMenuService.bll.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\UIShell.OSGi.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.csprojResolveAssemblyReference.cache
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.pdb

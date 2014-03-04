@@ -29,7 +29,8 @@ namespace AppPlatform.UI.Controllers
             UserLoginInfo userLoginInfo = _loginService.LoginAuthen(enterPriseID,userID,passWord);
             if (userLoginInfo.loginResult == LoginResult.userNoExist)
             {
-                return RedirectToAction("Login");
+                return View();
+                //return RedirectToAction("Login");
             }
             else if (userLoginInfo.loginResult==LoginResult.pwdError)
             {
