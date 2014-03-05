@@ -51,12 +51,5 @@ namespace AppPlatform.UI.Controllers
         {
             return RedirectToAction("Login");
         }
-
-        public ActionResult SystemManager()
-        {
-
-            return View();
-        }
-
     }
 }
