@@ -15,6 +15,7 @@
     <script src="~/Scripts/jquery.easyui.min.js"></script>
     <style type="text/css">
         .createtable td {
+            font-size:15px;
             width:30%;
             text-align:right;
         }
@@ -29,6 +30,18 @@
             var targ = document.getElementsByName("Enterprise_Name")
             if (targ[0].value.length <= 0) {
                 error.innerHTML = "*企业名称不能为空";
+                return false
+            }
+            else {
+                error.innerHTML = "";
+                return true;
+            }
+        }
+        function checkAdm() {
+            var error = document.getElementById("Adm_err")
+            var targ = document.getElementsByName("Enterprise_Adm")
+            if (targ[0].value.length <= 0) {
+                error.innerHTML = "*企业管理员不能为空";
                 return false
             }
             else {
@@ -79,16 +92,34 @@
                 return true;
             }
         }
+        function checkType() {
+            var error = document.getElementById("Type_err");
+            var targ = document.getElementsByName("Enterprise_Type");
+            var t1 = targ[0].selectedIndex;
+            if (targ[0].options[t1].value == 0) {
+                error.innerHTML = "*企业类型不能为空";
+                return false;
+            }
+            else {
+                error.innerHTML = "";
+                return true;
+            }
+        }
         function Validate() {
             var name = checkName();
+            var adm = checkAdm();
             var pas = checkPas();
             var pas2 = checkPas2();
             var email = checkEmail();
-            if (name && pas & pas2 & email) {
+            var type = checkType();
+            if (name && pas && pas2 && email && adm && type) {
+                
                 return true;
             }
-            else
+            else {
                 return false;
+            }
+                
         }
     </script>
 </head>
@@ -108,7 +139,13 @@
 	    		        <tr>
 	    			    <td>企业名称：</td>
 	    			    <th><input type="text" name="Enterprise_Name"></input>
-                            <span id="Name_err" style="color:red;font-size:13px"></span></p>
+                            <span id="Name_err" style="color:red;font-size:13px"></span>
+	    			    </th>
+	    		        </tr>
+                        <tr>
+	    			    <td>企业管理员：</td>
+	    			    <th><input type="text" name="Enterprise_Adm"></input>
+                            <span id="Adm_err" style="color:red;font-size:13px"></span>
 	    			    </th>
 	    		        </tr>
 	    		        <tr>
@@ -134,11 +171,17 @@
 	    			    </th>
 	    		        </tr>
                         <tr>
+	    			    <td>企业类型：</td>
+	    			    <th><select name="Enterprise_Type"><option value="0"></option><option value="1">供应商</option><option value="2">开发商</option></select>
+                            <span id="Type_err" style="color:red;font-size:13px"></span>
+	    			    </th>
+	    		        </tr>
+                        <tr>
                         <td>
-                            <button id="submit" type="submit" onclick="return Validate()">确认</button>
+                            <p><button id="submit" type="submit" onclick="return Validate()">确认</button></p>
                         </td>
                         <th>
-                            <button id="reset" type="reset">清空</button>
+                            <p><button id="reset" type="reset">清空</button></p>
                         </th>
                         </tr>
 	    	            </table>
