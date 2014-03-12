@@ -10,7 +10,7 @@ namespace AppPlatform.Model.Models
         [Key]
         [Required]
         [DisplayName("企业表主键")]
-        public int Enterprise_PrimaryKey;
+        public int Enterprise_PrimaryKey { get; set; }
 
         [Required]
         [DisplayName("企业编号")]
