@@ -17,6 +17,8 @@ namespace AppPlatform.LoginService.BLL
         {
             IUserRepository _userRepository = RepositoryFactory.UserRepository;
             User user = _userRepository.LoadEntities(User => User.Enterprise_ID == EnterpriseID&&User.User_ID == UserID).FirstOrDefault();
+            IEnterpriseRepository _enterPriseRepository=RepositoryFactory.EnterpriseRepository;
+            Enterprise enterprise=_enterPriseRepository.LoadEntities(Enterprise=>Enterprise.Enterprise_ID==EnterpriseID).FirstOrDefault();
             if (user == null)
             {
                 userLoginInfo.loginResult = AppplatformCommon.LoginResult.userNoExist;
@@ -24,6 +26,10 @@ namespace AppPlatform.LoginService.BLL
             else if (user.Password != PassWord)
             {
                 userLoginInfo.loginResult = AppplatformCommon.LoginResult.pwdError;
+            }
+            else if (enterprise.Checked==false)
+            {
+                userLoginInfo.loginResult = AppplatformCommon.LoginResult.userUnchecked;
             }
             else
             {

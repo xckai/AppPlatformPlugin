@@ -1,22 +1,3 @@
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.dll.config
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.DAL.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.IDAL.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.Model.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppplatformCommon.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.SqlServer.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\UIShell.OSGi.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.DAL.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.IDAL.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.Model.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppplatformCommon.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.SqlServer.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.csprojResolveAssemblyReference.cache
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.pdb
 C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.csprojResolveAssemblyReference.cache
 C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.dll
 C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.pdb
@@ -55,3 +36,14 @@ C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.L
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.csprojResolveAssemblyReference.cache
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.dll.config
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.SqlServer.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.xml
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.SqlServer.xml
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.pdb

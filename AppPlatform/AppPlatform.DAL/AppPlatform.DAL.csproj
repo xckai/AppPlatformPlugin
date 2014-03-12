@@ -30,12 +30,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AppPlatform.IDAL">
-      <HintPath>..\AppPlatform.IDAL\bin\Debug\AppPlatform.IDAL.dll</HintPath>
-    </Reference>
-    <Reference Include="AppPlatform.Model">
-      <HintPath>..\AppPlatform.Model\bin\Debug\AppPlatform.Model.dll</HintPath>
-    </Reference>
     <Reference Include="EntityFramework">
       <HintPath>..\packages\EntityFramework.6.0.2\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -81,6 +75,18 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AppPlatform.IDAL\AppPlatform.IDAL.csproj">
+      <Project>{52cf0184-191e-4005-9b30-6eaec8d363fa}</Project>
+      <Name>AppPlatform.IDAL</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\AppPlatform.Model\AppPlatform.Model.csproj">
+      <Project>{e23410d3-3039-4828-ba44-7e3658284812}</Project>
+      <Name>AppPlatform.Model</Name>
+      <Private>False</Private>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
