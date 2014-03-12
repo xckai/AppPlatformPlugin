@@ -115,6 +115,7 @@
     <ProjectReference Include="..\AppplatformCommon\AppplatformCommon.csproj">
       <Project>{45717637-ecd0-41b2-95e3-07e10039ef0b}</Project>
       <Name>AppplatformCommon</Name>
+      <Private>False</Private>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
