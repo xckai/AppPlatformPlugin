@@ -30,7 +30,7 @@
 <body class="easyui-layout">
 	<div data-options="region:'north'" style="overflow: hidden; height: 70px">
         <p style="float:right; margin-right:20px;padding:10px;font-size:18px;margin-top:30px;font-family:'Microsoft YaHei UI'">
-           <span>欢迎<span>@ViewBag.UserName</span></span>
+           <span>欢迎<span>@ViewData["EnterpriseName"]</span><a>@ViewData["userName"]</a></span>
             <a href="javascript:void(0)" id="editpass" onclick="$('#dlg').dialog('open')" style="font-size:14px">修改密码</a>
             <a href="/Account/Logout" id="loginOut" style="font-size:14px">安全退出</a>
         </p>

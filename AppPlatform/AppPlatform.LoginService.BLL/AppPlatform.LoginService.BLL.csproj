@@ -53,14 +53,17 @@
     <Reference Include="AppPlatform.DAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="AppPlatform.IDAL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\AppPlatform.IDAL\bin\Debug\AppPlatform.IDAL.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="AppPlatform.Model, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\AppPlatform.IDAL\bin\Debug\AppPlatform.Model.dll</HintPath>
+      <HintPath>..\AppPlatform.Model\bin\Debug\AppPlatform.Model.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

@@ -37,3 +37,9 @@ C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppP
 C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.IDAL\bin\Debug\EntityFramework.xml
 C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.dll
 C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\bin\Debug\AppPlatform.IDAL.dll.config
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\bin\Debug\AppPlatform.IDAL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\bin\Debug\AppPlatform.IDAL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.pdb

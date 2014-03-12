@@ -9,6 +9,10 @@ namespace AppPlatform.Model.Models
     {
         [Key]
         [Required]
+        [DisplayName("用户表主键")]
+        public int User_PrimaryKey;
+
+        [Required]
         [DisplayName("用户编号")]
         public int User_ID { get; set; }
         [Required]
