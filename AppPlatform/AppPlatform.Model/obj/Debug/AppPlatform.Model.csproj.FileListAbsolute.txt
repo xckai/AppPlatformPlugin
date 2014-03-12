@@ -46,3 +46,13 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\Ent
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.csprojResolveAssemblyReference.cache
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\AppPlatform.Model.dll.config
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\AppPlatform.Model.dll
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\AppPlatform.Model.pdb
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.dll
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.xml
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.csprojResolveAssemblyReference.cache
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.dll
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.pdb

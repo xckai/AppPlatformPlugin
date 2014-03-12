@@ -43,3 +43,9 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\bin\Debug\AppP
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.pdb
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\bin\Debug\AppPlatform.IDAL.dll.config
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\bin\Debug\AppPlatform.IDAL.dll
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\bin\Debug\AppPlatform.IDAL.pdb
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.dll
+C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.IDAL\obj\Debug\AppPlatform.IDAL.pdb

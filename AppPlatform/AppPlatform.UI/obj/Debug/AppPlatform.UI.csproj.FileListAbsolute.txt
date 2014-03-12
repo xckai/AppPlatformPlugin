@@ -56,10 +56,7 @@ C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppP
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.pdb
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Antlr3.Runtime.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.DAL.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.IDAL.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.LoginService.BLL.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.Model.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\EntityFramework.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Infrastructure.dll
@@ -82,9 +79,6 @@ C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.U
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.pdb
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.pdb
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.pdb
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.DAL.pdb
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.IDAL.pdb
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.Model.pdb
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\EntityFramework.xml
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Newtonsoft.Json.xml
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Net.Http.Formatting.xml
