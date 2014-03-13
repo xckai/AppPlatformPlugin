@@ -106,7 +106,6 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPla
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Antlr3.Runtime.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.LoginService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\EntityFramework.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Infrastructure.dll
@@ -125,7 +124,6 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.W
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\WebGrease.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.LoginService.BLL.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.pdb

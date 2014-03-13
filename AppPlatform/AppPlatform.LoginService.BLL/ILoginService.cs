@@ -8,6 +8,6 @@ namespace AppPlatform.LoginService.BLL
     public interface ILoginService
     {
         //登录认证
-        UserLoginInfo LoginAuthen(int EnterpriseID,int UserID,string PassWord);
+        UserLoginInfo LoginAuthen(int EnterpriseAccount,int UserAccount,string PassWord);
     }
 }

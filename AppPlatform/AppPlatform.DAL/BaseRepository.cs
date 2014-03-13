@@ -36,7 +36,7 @@ namespace AppPlatform.DAL
 
                 //下面的写法统一
 
-                db.SaveChanges();
+                //db.SaveChanges();
 
                 return db.SaveChanges() > 0;
 

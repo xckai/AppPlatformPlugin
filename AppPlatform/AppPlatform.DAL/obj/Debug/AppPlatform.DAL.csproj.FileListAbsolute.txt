@@ -57,16 +57,6 @@ C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppP
 C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.csprojResolveAssemblyReference.cache
 C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.dll
 C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.dll.config
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.SqlServer.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.SqlServer.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.csprojResolveAssemblyReference.cache
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.pdb
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.dll.config
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.pdb
@@ -77,3 +67,13 @@ C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.D
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.csprojResolveAssemblyReference.cache
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.dll
 C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.dll.config
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.xml
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.csprojResolveAssemblyReference.cache
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.pdb

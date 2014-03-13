@@ -51,8 +51,44 @@ namespace testmodel
             Group group = new Group();
             group.Group_Name = "Administration";
             group.Group_Desc = "平台管理员";
+            Group group1 = new Group();
+            group1.Group_Name = "EnterpriseAdmin";
+            group1.Group_Desc = "企业管理员";
+            Group group2 = new Group();
+            group2.Group_Name = "EnterpriseUser";
+            group2.Group_Desc = "企业普通用户";
+            Group group3 = new Group();
+            group3.Group_Name = "AppProvider";
+            group3.Group_Desc = "应用提供商";
             IGroupRepository _group = RepositoryFactory.GroupRepository;
             _group.AddEntity(group);
+            _group.AddEntity(group1);
+            _group.AddEntity(group2);
+            _group.AddEntity(group3);
+
+            Enterprise enterprise = new Enterprise();
+            enterprise.Checked = true;
+            enterprise.Enterprise_Name = "同济大学CAD中心";
+            enterprise.Enterprise_Code = "12345678";
+            enterprise.Enterprise_Email = "350455378@qq.com";
+            enterprise.Enterprise_ID =10000;
+            IEnterpriseRepository _ER = RepositoryFactory.EnterpriseRepository;
+            _ER.AddEntity(enterprise);
+            Enterprise entp = _ER.LoadEntities(Enterprise => Enterprise.Enterprise_ID == enterprise.Enterprise_ID).FirstOrDefault();
+            User user = new User();
+            user.Enterprise_ID = entp.Enterprise_ID;
+            user.User_Name = "陈瑶";
+            user.User_ID = 10000;
+            user.User_State = true;
+            user.Password = "123456";
+            IUserRepository _user = RepositoryFactory.UserRepository;
+            _user.AddEntity(user);
+
+            IUser_GroupRepository _UGR = RepositoryFactory.User_GroupRepository;
+            User_Group ug = new User_Group();
+            ug.Group_ID = 1;
+            ug.User_ID = 10000;
+            _UGR.AddEntity(ug);
 
         }
     }

@@ -15,7 +15,7 @@ namespace AppPlatform.Model
             using (var db = new Enterprise_AppContext())
             {
 
-                db.Database.Delete();
+                //db.Database.Delete();
                 db.SaveChanges();
             }
 

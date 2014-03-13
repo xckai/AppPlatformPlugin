@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 using AppplatformCommon;
+using AppPlatform.Model.Models;
 
 namespace AppPlatform.RegisterServie.BLL
 {
     public interface IRegisterService
     {
-        RegisterInfo Regiter(string EnterpriseName,string EnterPriseCode,string PassWord,string Email);
+        RegisterInfo Regiter(Enterprise enterPrise, User user, string enterPriseType);
     }
 }

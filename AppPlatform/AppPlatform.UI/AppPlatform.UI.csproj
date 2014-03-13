@@ -479,10 +479,16 @@
     <ProjectReference Include="..\AppPlatform.LoginService.BLL\AppPlatform.LoginService.BLL.csproj">
       <Project>{893b5b63-5fa9-4b3f-a5ff-7839a5897772}</Project>
       <Name>AppPlatform.LoginService.BLL</Name>
+      <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\AppPlatform.Model\AppPlatform.Model.csproj">
       <Project>{e23410d3-3039-4828-ba44-7e3658284812}</Project>
       <Name>AppPlatform.Model</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\AppPlatform.RegisterServie.BLL\AppPlatform.RegisterServie.BLL.csproj">
+      <Project>{df92cb13-ed89-46cd-9504-09bce5c5a7a1}</Project>
+      <Name>AppPlatform.RegisterServie.BLL</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\AppplatformCommon\AppplatformCommon.csproj">

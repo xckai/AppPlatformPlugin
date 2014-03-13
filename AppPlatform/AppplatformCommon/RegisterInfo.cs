@@ -8,7 +8,7 @@ namespace AppplatformCommon
 {
    public class RegisterInfo
     {
-        public int EnterpriseID;
-        public int UserID;
+        public int EnterpriseAccount;//企业登录账户
+        public int UserAccount;//用户登录账户
     }
 }
