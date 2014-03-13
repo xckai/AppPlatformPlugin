@@ -49,7 +49,11 @@ namespace AppPlatform.LoginService.BLL
                     userLoginInfo.UserGroupName = group.Group_Name;
                     IUser_RoleRepository _userRole = RepositoryFactory.User_RoleRepository;
                     User_Role userRole = _userRole.LoadEntities(User_Role => User_Role.User_ID == user.User_ID).FirstOrDefault();
-                    userLoginInfo.UserRoleID = userRole.RoleList_ID;
+                    if (userRole!=null)
+                    {
+                        userLoginInfo.UserRoleID = userRole.RoleList_ID;
+                    }
+                    
                 }
             }
             else

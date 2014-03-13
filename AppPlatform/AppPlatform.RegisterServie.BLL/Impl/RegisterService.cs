@@ -46,7 +46,7 @@ namespace AppPlatform.RegisterServie.BLL
                 user.User_State = true;//开启用户账户
                 user.Enterprise_ID = enterprise.Enterprise_ID;
                 IUserRepository _userRepository = RepositoryFactory.UserRepository;
-                var MaxUserAccount = _userRepository.LoadEntities(User =>User.Enterprise_ID==enterprise.Enterprise_ID&& User.User_ID >= 10000).Max();
+                var MaxUserAccount = _userRepository.LoadEntities(User => User.User_ID >= 10000).Max();
                 if (MaxUserAccount == null)
                 {
                     user.User_ID = 10000;

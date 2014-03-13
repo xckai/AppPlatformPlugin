@@ -71,14 +71,14 @@ namespace testmodel
             enterprise.Enterprise_Name = "同济大学CAD中心";
             enterprise.Enterprise_Code = "12345678";
             enterprise.Enterprise_Email = "350455378@qq.com";
-            enterprise.Enterprise_ID =10000;
+            enterprise.Enterprise_ID =10001;
             IEnterpriseRepository _ER = RepositoryFactory.EnterpriseRepository;
             _ER.AddEntity(enterprise);
             Enterprise entp = _ER.LoadEntities(Enterprise => Enterprise.Enterprise_ID == enterprise.Enterprise_ID).FirstOrDefault();
             User user = new User();
             user.Enterprise_ID = entp.Enterprise_ID;
             user.User_Name = "陈瑶";
-            user.User_ID = 10000;
+            user.User_ID = 10001;
             user.User_State = true;
             user.Password = "123456";
             IUserRepository _user = RepositoryFactory.UserRepository;
@@ -87,7 +87,7 @@ namespace testmodel
             IUser_GroupRepository _UGR = RepositoryFactory.User_GroupRepository;
             User_Group ug = new User_Group();
             ug.Group_ID = 1;
-            ug.User_ID = 10000;
+            ug.User_ID = 10001;
             _UGR.AddEntity(ug);
 
         }

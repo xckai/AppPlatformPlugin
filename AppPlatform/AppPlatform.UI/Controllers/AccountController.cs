@@ -30,12 +30,12 @@ namespace AppPlatform.UI.Controllers
         [HttpPost]
         public ActionResult LoginSuccess()
         {
-
+            UserLoginInfo userLoginInfo = new UserLoginInfo();
             var enterPriseID=Convert.ToInt32(Request["EnterpriseID"]);
             var userID = Convert.ToInt32(Request["UserID"]);
             var passWord = Request["Password"];
             ILoginService _loginService = new AppPlatform.LoginService.BLL.LoginService();
-            UserLoginInfo userLoginInfo = _loginService.LoginAuthen(enterPriseID,userID,passWord);
+            userLoginInfo = _loginService.LoginAuthen(enterPriseID,userID,passWord);
             if (userLoginInfo.loginResult == LoginResult.userNoExist)
             {
                 //ViewData["EnterpriseName"] = enterPriseID+ "企业：";
@@ -66,7 +66,7 @@ namespace AppPlatform.UI.Controllers
                 //显示欢迎页面信息
                 IEnterpriseRepository _enterPriseRopository = RepositoryFactory.EnterpriseRepository;
                 Enterprise enterPrise = _enterPriseRopository.LoadEntities(Enterprise=>Enterprise.Enterprise_ID==enterPriseID).FirstOrDefault();
-                ViewData["EnterpriseName"] = enterPrise.Enterprise_Name + "企业：";
+                ViewData["EnterpriseName"] = enterPrise.Enterprise_Name + "：";
                 IUserRepository _userRepository = RepositoryFactory.UserRepository;
                 User user = _userRepository.LoadEntities(User=>User.Enterprise_ID==enterPrise.Enterprise_ID&&User.User_ID==userID).FirstOrDefault();
                 ViewData["userName"] = user.User_Name;
