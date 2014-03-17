@@ -22,3 +22,7 @@ C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlug
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.dll
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.UserAccountService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.UserAccountService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.pdb

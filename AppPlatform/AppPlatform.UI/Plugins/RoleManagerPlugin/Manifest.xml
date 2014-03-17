@@ -3,11 +3,11 @@
   <Activator Type="RoleManagerPlugin.Activator" Policy="Immediate" />
   <Runtime>
     <Assembly Path="bin\RoleManagerPlugin.dll" Share="false" />
-    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.RoleService.BLL" AssemblyName="AppPlatform.RoleService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.GroupService.BLL" AssemblyName="AppPlatform.UserGuopService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.GroupPermissionService.BLL" AssemblyName="AppPlatform.GroupPermissionService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.RolePermissionService.BLL" AssemblyName="AppPlatform.RolePermissionService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="Appplatform.LogService.BLL" AssemblyName="Appplatform.LogService.BLL" Resolution="Mandatory" />
   </Runtime>
   <Extension Point="MainMenu">
     <item url="/Group/Index?plugin=RoleManagerPlugin" text="组管理" order="0">

@@ -402,11 +402,6 @@
       <Name>AppPlatForm.EnterpriseOrganService.BLL</Name>
       <Private>False</Private>
     </ProjectReference>
-    <ProjectReference Include="..\AppPlatform.LogService.BLL\AppPlatform.LogService.BLL.csproj">
-      <Project>{5b866676-9f9d-4531-a071-2cf3884dbf61}</Project>
-      <Name>AppPlatform.LogService.BLL</Name>
-      <Private>False</Private>
-    </ProjectReference>
     <ProjectReference Include="..\AppPlatform.UserAccountService.BLL\AppPlatform.UserAccountService.BLL.csproj">
       <Project>{d5b0674f-9db2-472e-a167-74de9e8de0f5}</Project>
       <Name>AppPlatform.UserAccountService.BLL</Name>

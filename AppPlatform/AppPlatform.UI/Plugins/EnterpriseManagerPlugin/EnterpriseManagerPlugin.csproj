@@ -410,9 +410,9 @@
       <Name>AppPlatform.EnterpriseMenuService.bll</Name>
       <Private>False</Private>
     </ProjectReference>
-    <ProjectReference Include="..\AppPlatform.LogService.BLL\AppPlatform.LogService.BLL.csproj">
-      <Project>{5b866676-9f9d-4531-a071-2cf3884dbf61}</Project>
-      <Name>AppPlatform.LogService.BLL</Name>
+    <ProjectReference Include="..\Appplatform.LogService.BLL\Appplatform.LogService.BLL.csproj">
+      <Project>{5c35f74e-196b-4a5b-a404-3be316c96d3e}</Project>
+      <Name>Appplatform.LogService.BLL</Name>
       <Private>False</Private>
     </ProjectReference>
   </ItemGroup>

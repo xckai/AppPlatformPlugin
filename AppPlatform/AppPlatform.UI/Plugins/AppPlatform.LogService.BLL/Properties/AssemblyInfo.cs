@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AppPlatform.LogService.BLL")]
+[assembly: AssemblyTitle("Appplatform.LogService.BLL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AppPlatform.LogService.BLL")]
+[assembly: AssemblyProduct("Appplatform.LogService.BLL")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a61d0059-4423-4940-ab78-28e02dc5d98b")]
+[assembly: Guid("e0c5e31f-a458-4873-804c-de24d045d8d5")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -70,13 +70,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AppPlatform.LogService.BLL\AppPlatform.LogService.BLL.csproj">
-      <Project>{5b866676-9f9d-4531-a071-2cf3884dbf61}</Project>
-      <Name>AppPlatform.LogService.BLL</Name>
-      <Private>False</Private>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>

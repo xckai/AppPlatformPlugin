@@ -403,11 +403,6 @@
       <Name>AppPlatform.GroupService.BLL</Name>
       <Private>False</Private>
     </ProjectReference>
-    <ProjectReference Include="..\AppPlatform.LogService.BLL\AppPlatform.LogService.BLL.csproj">
-      <Project>{5b866676-9f9d-4531-a071-2cf3884dbf61}</Project>
-      <Name>AppPlatform.LogService.BLL</Name>
-      <Private>False</Private>
-    </ProjectReference>
     <ProjectReference Include="..\AppPlatform.RolePermissionService.BLL\AppPlatform.RolePermissionService.BLL.csproj">
       <Project>{2ecb27b9-7c0a-4fb5-99fb-a78f958f44ae}</Project>
       <Name>AppPlatform.RolePermissionService.BLL</Name>

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using UIShell.OSGi;
 
-namespace AppPlatform.LogService.BLL
+namespace Appplatform.LogService.BLL
 {
     public class Activator : IBundleActivator
     {

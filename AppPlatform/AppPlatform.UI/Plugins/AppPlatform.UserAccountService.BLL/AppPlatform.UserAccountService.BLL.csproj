@@ -54,12 +54,6 @@
       <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AppPlatform.LogService.BLL\AppPlatform.LogService.BLL.csproj">
-      <Project>{5b866676-9f9d-4531-a071-2cf3884dbf61}</Project>
-      <Name>AppPlatform.LogService.BLL</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

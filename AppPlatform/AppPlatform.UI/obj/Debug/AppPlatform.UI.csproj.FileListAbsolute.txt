@@ -149,3 +149,4 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\Syst
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.dll

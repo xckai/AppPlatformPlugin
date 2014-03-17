@@ -3,10 +3,10 @@
   <Activator Type="EnterpriseManagerPlugin.Activator" Policy="Immediate" />
   <Runtime>
     <Assembly Path="bin\EnterpriseManagerPlugin.dll" Share="false" />
-    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.EnterpriseClassService.BLL" AssemblyName="AppPlatform.EnterpriseClassService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.EnterpriseInfoService.BLL" AssemblyName="AppPlatform.EnterpriseInfoService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.EnterpriseMenuService.bll" AssemblyName="AppPlatform.EnterpriseMenuService.bll" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="Appplatform.LogService.BLL" AssemblyName="Appplatform.LogService.BLL" Resolution="Mandatory" />
   </Runtime>
   <Extension Point="MainMenu">
     <item url="/EnterpriseInfo/Index?plugin=EnterpriseManagerPlugin" text="企业资料管理" order="0">

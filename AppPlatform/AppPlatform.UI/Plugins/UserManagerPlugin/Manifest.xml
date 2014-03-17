@@ -4,10 +4,10 @@
   <Runtime>
     <Assembly Path="bin\UserManagerPlugin.dll" Share="false" />
     <Dependency BundleSymbolicName="AppPlatForm.EnterpriseOrganService.BLL" AssemblyName="AppPlatForm.EnterpriseOrganService.BLL" Resolution="Mandatory" />
-    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.UserAccountService.BLL" AssemblyName="AppPlatform.UserAccountService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.UserInformationService.BLL" AssemblyName="AppPlatform.UserInformationService.BLL" Resolution="Mandatory" />
     <Dependency BundleSymbolicName="AppPlatform.UserRoleService.BLL" AssemblyName="AppPlatform.UserRoleService.BLL" Resolution="Mandatory" />
+    <Dependency BundleSymbolicName="Appplatform.LogService.BLL" AssemblyName="Appplatform.LogService.BLL" Resolution="Mandatory" />
   </Runtime>
   <Extension Point="MainMenu">
     <item url="/EnterpriseOrganize/Index?plugin=UserManagerPlugin" text="企业组织结构管理" order="0">

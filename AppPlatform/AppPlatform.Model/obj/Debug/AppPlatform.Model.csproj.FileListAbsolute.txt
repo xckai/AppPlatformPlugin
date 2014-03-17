@@ -55,4 +55,3 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\Ent
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.SqlServer.xml
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.csprojResolveAssemblyReference.cache

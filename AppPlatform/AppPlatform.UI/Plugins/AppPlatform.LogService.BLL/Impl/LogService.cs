@@ -1,29 +1,59 @@
-﻿using System;
+﻿using AppPlatform.DAL;
+using AppPlatform.IDAL;
+using AppPlatform.Model.Models;
+using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Data.Linq;
+using System.Linq;
 
-namespace AppPlatform.LogService.BLL
+namespace Appplatform.LogService.BLL
 {
     public class LogService : ILogService
     {
-        public bool LogWrite(object Log)
+
+        bool ILogService.LogWrite(Log a)
         {
-            throw new NotImplementedException();
+            ILogRepository _logRepository = RepositoryFactory.LogRepository;
+            try
+            {
+                _logRepository.AddEntity(a);
+                return true;
+            }
+            catch (System.Exception ex)
+            {
+                return false;
+            	
+            }
         }
 
-        public string LogGet(object LogType)
+        List<Log> ILogService.LogGet(DateTime StartTime, DateTime EndTime)
         {
-            return "日志获取成功";
+            ILogRepository _logRepository = RepositoryFactory.LogRepository;
+            List<Log> t = _logRepository.LoadEntities(Log => (Log.Log_Time > StartTime && Log.Log_Time < EndTime)).ToList<Log>();
+            return t;
         }
 
-        public string LogGet(object StartTime, object EndTime)
+        List<Log> ILogService.LogGet(string LogClass, DateTime StartTime, DateTime EndTime)
         {
-            throw new NotImplementedException();
+            ILogRepository _logRepository = RepositoryFactory.LogRepository;
+            List<Log> t = _logRepository.LoadEntities(Log => (Log.Log_Time > StartTime && Log.Log_Time < EndTime && Log.Log_Class.Equals(LogClass))).ToList<Log>();
+            return t;
         }
 
-        public bool LogDelete(object LogID)
+        bool ILogService.LogDelete(Log a)
         {
-            throw new NotImplementedException();
+            ILogRepository _logRepository = RepositoryFactory.LogRepository;
+            try
+            {
+                _logRepository.DeleteEntity(a);
+                return true;
+            }
+            catch (System.Exception ex)
+            {
+                return false;
+
+            }
         }
     }
 }

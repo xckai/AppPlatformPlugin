@@ -22,3 +22,7 @@ C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlug
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.dll
 C:\Users\chilton\Desktop\Appstore\项目资料\AppPlatformplugin\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\AppPlatForm.EnterpriseOrganService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\AppPlatForm.EnterpriseOrganService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\UIShell.OSGi.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.dll
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.pdb
