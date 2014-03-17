@@ -13,8 +13,9 @@
     @Scripts.Render("~/Scripts/jquery-1.8.0.min.js")
     @Scripts.Render("~/Scripts/jquery.easyui.min.js")
     <script>
-        function create(url, btn) {
+        function create(btn) {
             var tit = btn.value;
+            var url = btn.id;
             if (!$('#maintabs').tabs('exists', tit)) {
                 $('#maintabs').tabs('add', {
                     title: tit,
@@ -43,10 +44,18 @@
                 <div style="float:left;margin-left:40px"> 
                     
                          <div id="AppList" class="easyui-panel" title="我的应用"  data-options="collapsible:true" style="width:600px;height:500px;padding:10px">
-                        <input name="sys" type="button" onclick="create('/Home/SystemFunction/sys', this)" value="系统管理"/>@*动态显示*@
-                        <input type="button" onclick="create('/AppStore/Index?plugin=AppManagerPlugin', this)" value="应用商店"/>
-                        <input type="button" onclick="create('http://jeasyui.com/', this)" value="EasyUI"/>
-                        <input type="button" onclick="create('/Home/AppEntrance', this)" value="应用入口"/>
+                             @{
+                                 var funlist = ViewData["function"] as List<AppPlatform.Model.Models.Function>;
+                                 foreach (var funitem in funlist)
+                                 {
+                                     ViewData["url"]=funitem.Function_Url + "/"+funitem.Function_ID;
+                                    <input  type="button" id="@ViewData["url"]" onclick="create(this)" value="@funitem.Function_Name" />
+                                 }
+                             }
+                        @*<input name="sys" type="button" onclick="create('/Home/SystemFunction'+'/sys', this)" value="系统管理"/>*@@*动态显示*@
+                        <input type="button" id="/AppStore/Index?plugin=AppManagerPlugin" onclick="create(this)" value="应用商店"/>
+                        <input type="button" id="http://jeasyui.com/" onclick="create(this)" value="EasyUI"/>
+                        <input type="button" id="/Home/AppEntrance" onclick="create(this)" value="应用入口"/>
                          </div>
                 </div>
                 <div style="float:right;margin-right:40px">

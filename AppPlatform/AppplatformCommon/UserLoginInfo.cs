@@ -20,7 +20,7 @@ namespace AppplatformCommon
     /// </summary>
     public class UserLoginInfo
     {
-      public string UserGroupName;//用户组别,默认为空
+      public  int UserGroupID;//用户组别,默认为空
       public  int UserRoleID;//用户角色ID,默认为空
       public  LoginResult loginResult;//登录成功与否
     }

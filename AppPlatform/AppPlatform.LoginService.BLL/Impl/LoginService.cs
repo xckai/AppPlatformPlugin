@@ -44,9 +44,7 @@ namespace AppPlatform.LoginService.BLL
                     userLoginInfo.loginResult = AppplatformCommon.LoginResult.ok;
                     IUser_GroupRepository _userGroup = RepositoryFactory.User_GroupRepository;
                     User_Group userGroup = _userGroup.LoadEntities(User_Group => User_Group.User_ID == user.User_ID).FirstOrDefault();
-                    IGroupRepository _Group = RepositoryFactory.GroupRepository;
-                    Group group = _Group.LoadEntities(Group => Group.Group_ID == userGroup.Group_ID).FirstOrDefault();
-                    userLoginInfo.UserGroupName = group.Group_Name;
+                    userLoginInfo.UserGroupID = userGroup.Group_ID;
                     IUser_RoleRepository _userRole = RepositoryFactory.User_RoleRepository;
                     User_Role userRole = _userRole.LoadEntities(User_Role => User_Role.User_ID == user.User_ID).FirstOrDefault();
                     if (userRole!=null)

@@ -11,7 +11,7 @@ namespace AppPlatform.UI.Controllers
         //
         // GET: /Home/
 
-        public ActionResult SystemFunction(string ID)
+        public ActionResult SystemFunction(int ID)
         {
             ViewBag.ID = ID;
             return View();

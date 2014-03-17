@@ -71,7 +71,16 @@ namespace AppPlatform.UI.Controllers
                 User user = _userRepository.LoadEntities(User=>User.Enterprise_ID==enterPrise.Enterprise_ID&&User.User_ID==userID).FirstOrDefault();
                 ViewData["userName"] = user.User_Name;
                 //根据用户角色，动态加载菜单项
-
+                IGroup_FunctionRepository _groupFunction = RepositoryFactory.Group_FunctionRepository;
+                List<Group_Function> GroupFunction = _groupFunction.LoadEntities(Group_Function => Group_Function.Group_ID == userLoginInfo.UserGroupID).ToList<Group_Function>();
+                List<Function> functionList = new List<Function>();
+                foreach(var funitem in GroupFunction)
+                {
+                    IFunctionRepository _functionRepository = RepositoryFactory.FunctionRepository;
+                    Function function = _functionRepository.LoadEntities(Function => Function.Function_ID == funitem.Function_ID).FirstOrDefault();
+                    functionList.Add(function);
+                }
+                ViewData["function"] = functionList;
                 return View();
             }
             return new EmptyResult();
