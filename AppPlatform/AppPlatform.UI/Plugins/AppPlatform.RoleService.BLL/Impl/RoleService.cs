@@ -29,7 +29,10 @@ namespace AppPlatform.RoleService.BLL
 
         public bool RoleDelete(int RoleID)
         {
-            throw new NotImplementedException();
+            IRoleRepository _roleRepository = RepositoryFactory.RoleRepository;
+            Role role = _roleRepository.LoadEntities(Role => Role.Role_ID == RoleID).FirstOrDefault();
+            return _roleRepository.DeleteEntity(role);
+            
         }
 
         public bool RoleUpdate(Model.Models.Role role)

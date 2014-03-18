@@ -14,6 +14,12 @@
      @Scripts.Render("~/Scripts/jquery.easyui.min.js")
 
     <script type="text/javascript">
+        var editIndex;
+        function onclick(index)
+        {
+            editIndex = index;
+        }
+
         function newRole() {
             $('#dlg').dialog('open').dialog('setTitle', '新建角色');
             $('#fm').form('clear');
@@ -22,10 +28,10 @@
         function editRole() {
             var row = $('#dg').datagrid('getSelected');
             if (row) {
-                alert('Item ID:' + row.itemid);
+                alert(editIndex);
                 $('#dlgEdit').dialog('open').dialog('setTitle', '权限修改');
                 $('#RoleEdit').form('load', row);
-                url = 'SaveRoleEdit?id=' ;
+                url = 'SaveRoleEdit';
             }
         }
         function SaveNewRole() {
@@ -50,7 +56,7 @@
         }
         function saveRoleEdit() {
             $('#RoleEdit').form('submit', {
-                url:url,
+                url: url,
                 onSubmit: function () {
                     return $(this).form('validate');
                 },
@@ -67,13 +73,24 @@
                 }
             });
         }
-        function destroyRole() {
-            if (editIndex == undefined) { return }
-            $.messager.confirm('确认', '你确定删除该角色吗？', function (r) {
-                if (r) {
-                    $('#dg').datagrid('deleteRow', editIndex);
-                }
-            });
+        function destroyRole(){
+            var row = $('#dg').datagrid('getSelected');
+            if (row){
+                $.messager.confirm('Confirm','Are you sure you want to destroy this user?',function(r){
+                    if (r){
+                        $.post('DestroyRole?id='+row.Role_ID,function(result){
+                            if (result=="True"){
+                                $('#dg').datagrid('reload');    // reload the user data
+                            } else {
+                                $.messager.show({    // show error message
+                                    title: 'Error',
+                                    msg:'删除错误'
+                                });
+                            }
+                        });
+                    }
+                });
+            }
         }
         function getData() {
             $('#dg').datagrid({
@@ -110,14 +127,15 @@
 <body>
     <div style="width:100%">
     <table id="dg" title="角色列表" class="easyui-datagrid"
-            method="get" 
-            toolbar="#toolbar" pagination="true"
+            method="get" data-options="onClickRow:onclick"
+            toolbar="#toolbar" pagination="true" idField="id"
             rownumbers="true" fitColumns="true"  singleSelect="true">
         <thead>
             <tr>
-                <th field="Role_Name" width="20%">角色名</th>
-                <th field="Role_Description" width="40%">角色描述</th>
-                <th field="Role_Option" width="40%">备注</th>
+                <th field="Role_ID" width="10%">角色序号</th>
+                <th field="Role_Name" width="20%">角色名称</th>
+                <th field="Role_Description" width="30%">角色描述</th>
+                <th field="Role_Option" width="40%">备注信息</th>
             </tr>
         </thead>
     </table>
@@ -132,7 +150,7 @@
         <div class="ftitle">角色信息</div>
         <form id="fm" method="post" novalidate>
             <div class="fitem">
-                <label for="newrolename">角色名:</label>
+                <label for="newrolename">角色名称:</label>
                 <input name="newrolename" class="easyui-validatebox" data-options="required:true">
             </div>
             <div class="fitem">
@@ -140,7 +158,7 @@
                 <textarea name="newdescribe" style="width:230px"></textarea>
             </div>
             <div class="fitem">
-                <label for="newinfo">备注:</label>
+                <label for="newinfo">备注信息:</label>
                 <textarea name="newinfo" style="width:230px"></textarea>
             </div>
         </form>
@@ -155,7 +173,11 @@
         <div class="ftitle">角色信息</div>
         <form id="RoleEdit" method="post" novalidate>
             <div class="fitem">
-                <label for="Role_Name">角色名:</label>
+                <label for="Role_ID">角色序号:</label>
+                <input name="Role_ID" type="text" readonly="true">
+            </div>
+            <div class="fitem">
+                <label for="Role_Name">角色名称:</label>
                 <input name="Role_Name" class="easyui-validatebox" data-options="required:true">
             </div>
             <div class="fitem">
@@ -163,7 +185,7 @@
                 <textarea name="Role_Description" style="width:230px"></textarea>
             </div>
             <div class="fitem">
-                <label for="Role_Option">备注:</label>
+                <label for="Role_Option">备注信息:</label>
                 <textarea name="Role_Option" style="width:230px"></textarea>
             </div>
         </form>

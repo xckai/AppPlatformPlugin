@@ -19,3 +19,4 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatf
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\obj\Debug\AppPlatform.UserGuopService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\obj\Debug\AppPlatform.UserGuopService.BLL.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\bin\AppPlatform.UserGuopService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\obj\Debug\AppPlatform.GroupService.BLL.csprojResolveAssemblyReference.cache

@@ -47,9 +47,9 @@ namespace EnterpriseManagerPlugin.Controllers
             return  _roleService.RoleAdd(role);
         }
 
-        public bool SaveRoleEdit(int id)
+        public bool SaveRoleEdit()
         {
-            int roleid = id;
+            int roleid =Convert.ToInt32(Request.Form["Role_ID"]);
             IRoleRepository _roleRepository = RepositoryFactory.RoleRepository;
             Role role = _roleRepository.LoadEntities(Role => Role.Role_ID == roleid).FirstOrDefault();
             role.Role_Name = Request.Form["Role_Name"];
@@ -59,6 +59,11 @@ namespace EnterpriseManagerPlugin.Controllers
             return _roleService.RoleUpdate(role);
         
         }
-
+        public bool DestroyRole(int id)
+        {
+            int roleid = id;
+            IRoleService _roleService = new RoleService();
+            return _roleService.RoleDelete(roleid);
+        }
     }
 }
