@@ -1,0 +1,170 @@
+﻿@{
+    ViewBag.Title = "企业应用云平台";
+}
+
+@*<h2>@ViewBag.Enterprise_ID 登录成功</h2>*@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>企业应用云平台</title>
+    <link href="~/Content/themes/default/easyui.css" rel="stylesheet" />
+    <link href="~/Content/themes/icon.css" rel="stylesheet" />
+    @Scripts.Render("~/Scripts/jquery-1.8.0.min.js")
+    @Scripts.Render("~/Scripts/jquery.easyui.min.js")
+    <script>
+        function create(btn) {
+            var tit = btn.value;
+            var url = btn.id;
+            if (!$('#maintabs').tabs('exists', tit)) {
+                $('#maintabs').tabs('add', {
+                    title: tit,
+                    content: '<iframe  frameborder="0"  src="' + url + '" style="width:100%;height:100%;"></iframe>',
+                    closable: true
+                })
+            } else {
+                $('#maintabs').tabs('select', tit);
+            }
+        }
+        function checkPas0() {
+            var error = document.getElementById("Pas0_err")
+            var targ = document.getElementsByName("User_Pas0")
+            if (targ[0].value.length <= 0) {
+                error.innerHTML = "*原密码不能为空";
+                return false
+            }
+            else {
+                error.innerHTML = "";
+                return true;
+            }
+        }
+        function checkPas() {
+            var error = document.getElementById("Pas_err")
+            var targ = document.getElementsByName("User_Pas")
+            if (targ[0].value.length <= 0) {
+                error.innerHTML = "*新密码不能为空";
+                return false
+            }
+            else {
+                error.innerHTML = "";
+                return true;
+            }
+        }
+        function checkPas2() {
+            var error = document.getElementById("Pas2_err");
+            var targ1 = document.getElementsByName("User_Pas");
+            var targ2 = document.getElementsByName("User_Pas2")
+            if (targ1[0].value.length <= 0) {
+                error.innerHTML = "*确认密码不能为空";
+                return false
+            }
+            else if (targ2[0].value != targ2[0].value) {
+                error.innerHTML = "*输入的新密码不一致";
+                return false
+            }
+            else {
+                error.innerHTML = "";
+                return true;
+            }
+        }
+        function Validate() {
+            var pas0 = checkPas0();
+            var pas = checkPas();
+            var pas2 = checkPas2();
+            if (pas0 && pas && pas2) {
+
+                return true;
+            }
+            else {
+                return false;
+            }
+
+        }
+        function SubmitNewPWD() {
+            $('#PasswordEditForm').form('submit', {
+                url: '@Url.Action("PasswordEdit")',
+                onSubmit: function () {
+                    return Validate();
+                },
+                success: function () {
+                    
+                      $('#PassWordEdit').dialog('close');        // close the dialog
+                    
+                }
+            });
+        }
+    </script>
+</head>
+<body class="easyui-layout">
+	<div data-options="region:'north'" style="overflow: hidden; height: 70px">
+        <p style="float:right; margin-right:20px;padding:10px;font-size:18px;margin-top:30px;font-family:'Microsoft YaHei UI'">
+           <span>欢迎<span>@ViewData["EnterpriseName"]</span><a>@ViewData["userName"]</a></span>
+            <a href="javascript:void(0)" id="editpass" onclick="$('#PassWordEdit').dialog('open')" style="font-size:14px">修改密码</a>
+            <a href="/MainPage/Logout" id="loginOut" style="font-size:14px">安全退出</a>
+        </p>
+        <span style="padding-left:10px; font-size: 16px; "><img src="~/Content/Image/logohead.png" /></span>
+    </div>
+	
+	<div  data-options="region:'center'">
+        <div id="maintabs" class="easyui-tabs" data-options="tabWidth:112,fit:true" style="overflow:hidden" >
+            <div title="平台首页" style="padding:10px;border:hidden">
+                <div style="float:left;margin-left:40px"> 
+                    
+                         <div id="AppList" class="easyui-panel" title="我的应用"  data-options="collapsible:true" style="width:600px;height:500px;padding:10px">
+                             @{
+                                 var funlist = ViewData["function"] as List<AppPlatform.Model.Models.Function>;
+                                 foreach (var funitem in funlist)
+                                 {
+                                     ViewData["url"]=funitem.Function_Url + "/"+funitem.Function_ID;
+                                    <input  type="button" id="@ViewData["url"]" onclick="create(this)" value="@funitem.Function_Name" />
+                                 }
+                             }
+                        @*<input name="sys" type="button" onclick="create('/Home/SystemFunction'+'/sys', this)" value="系统管理"/>*@@*动态显示*@
+                        <input type="button" id="/AppStore/Index?plugin=AppManagerPlugin" onclick="create(this)" value="应用商店"/>
+                        <input type="button" id="http://jeasyui.com/" onclick="create(this)" value="EasyUI"/>
+                        <input type="button" id="/Home/AppEntrance" onclick="create(this)" value="应用入口"/>
+                         </div>
+                </div>
+                <div style="float:right;margin-right:40px">
+                    <div>
+                         <div id="TodoList" class="easyui-panel" title="我的任务" data-options="collapsible:true" style="width:600px;height:240px;padding:10px">
+                         </div>
+                    </div>
+                 <div style="margin-top:20px">
+                     <div id="SystemMessage" class="easyui-panel" title="系统公告" data-options="collapsible:true" style="width:600px;height:240px;padding:10px" >
+                     </div>
+                 </div>
+               </div>
+            </div>
+        </div>
+	</div>
+     <div id="PassWordEdit" class="easyui-dialog" title="修改信息"
+          data-options="closed:true,iconCls:'icon-edit'" buttons="#dlg-buttons" 
+             style="width:400px;height:200px;padding:10px;">
+        
+	                <form  id="PasswordEditForm" method="post" action="PasswordEdit">
+                        <div class="fitem">
+	    			    <label>输入旧密码：</label>
+	    			    <input type="password" name="User_Pas0">
+                        <span id="Pas0_err" style="color:red;font-size:12px"></span>
+	    		        </div>
+	    		        <div class="fitem">
+	    			    <label>输入新密码：</label>
+	    			    <input type="password" name="User_Pas">
+                        <span id="Pas_err" style="color:red;font-size:12px"></span>
+	    		        </div>
+                        <div class="fitem">
+	    			    <label>新密码确认：</label>
+	    			    <input type="password" name="User_Pas2">
+                        <span id="Pas2_err" style="color:red;font-size:12px"></span>
+	    		        </div>
+	                </form>     
+    </div>
+    <div id="dlg-buttons">
+        <a href="javascript:void(0)" class="easyui-linkbutton" iconCls="icon-ok" onclick=" SubmitNewPWD()">确认</a>
+        <a href="javascript:void(0)" class="easyui-linkbutton" iconCls="icon-cancel" onclick="javascript:$('#PassWordEdit').dialog('close')">取消</a>
+    </div>
+
+</body>
+
+</html>
