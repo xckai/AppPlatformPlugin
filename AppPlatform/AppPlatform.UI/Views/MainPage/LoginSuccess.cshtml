@@ -86,9 +86,14 @@
                 onSubmit: function () {
                     return Validate();
                 },
-                success: function () {
-                    
-                      $('#PassWordEdit').dialog('close');        // close the dialog
+                success: function (data) {
+                    if (data=="True") {
+                        $('#PassWordEdit').dialog('close');
+                    }
+                    else {
+                        document.getElementById("Pas0_err").innerHTML = "输入密码错误";
+                    }
+                              // close the dialog
                     
                 }
             });

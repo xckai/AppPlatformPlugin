@@ -88,8 +88,8 @@ namespace AppPlatform.UI.Controllers
             {
                 user.User_ID = Convert.ToInt32(Request.Form["User_Pas"]);
                 _userRepository.UpdateEntity(user);
+                return true;
             }
-            return true;
         }
         public ActionResult Logout()
         {
