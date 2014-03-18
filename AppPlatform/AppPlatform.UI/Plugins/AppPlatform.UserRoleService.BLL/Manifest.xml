@@ -3,6 +3,5 @@
   <Activator Type="AppPlatform.UserRoleService.BLL.Activator" Policy="Immediate" />
   <Runtime>
     <Assembly Path="bin\AppPlatform.UserRoleService.BLL.dll" Share="true" />
-    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
   </Runtime>
 </Bundle>

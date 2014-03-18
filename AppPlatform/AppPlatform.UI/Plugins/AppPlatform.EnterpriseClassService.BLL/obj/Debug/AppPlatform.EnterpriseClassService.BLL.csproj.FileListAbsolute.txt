@@ -14,3 +14,4 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatf
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\bin\UIShell.OSGi.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\obj\Debug\AppPlatform.EnterpriseClassService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\obj\Debug\AppPlatform.EnterpriseClassService.BLL.pdb
+F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\obj\Debug\AppPlatform.EnterpriseClassService.BLL.csprojResolveAssemblyReference.cache
