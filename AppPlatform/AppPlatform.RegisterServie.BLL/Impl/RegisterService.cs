@@ -22,7 +22,7 @@ namespace AppPlatform.RegisterServie.BLL
                 enterprise = enterPriseVariable;
                 enterprise.Checked = false;
                 IEnterpriseRepository _enterpriseRepository = RepositoryFactory.EnterpriseRepository;
-                Enterprise MaxenterpriseID = _enterpriseRepository.LoadEntities(Enterprise => Enterprise.Enterprise_ID >= 10000).Max();
+                Enterprise MaxenterpriseID = _enterpriseRepository.LoadEntities(Enterprise => Enterprise.Enterprise_ID >=1000).Last();
                 if (MaxenterpriseID == null)
                 {
                     enterprise.Enterprise_ID = 10000;
@@ -46,7 +46,7 @@ namespace AppPlatform.RegisterServie.BLL
                 user.User_State = true;//开启用户账户
                 user.Enterprise_ID = enterprise.Enterprise_ID;
                 IUserRepository _userRepository = RepositoryFactory.UserRepository;
-                var MaxUserAccount = _userRepository.LoadEntities(User => User.User_ID >= 10000).Max();
+                var MaxUserAccount = _userRepository.LoadEntities(User => User.User_ID >= 10000).Last();
                 if (MaxUserAccount == null)
                 {
                     user.User_ID = 10000;
@@ -81,6 +81,13 @@ namespace AppPlatform.RegisterServie.BLL
             rgInfo.EnterpriseAccount = enterprise.Enterprise_ID;
             rgInfo.UserAccount= user.User_ID;
             return rgInfo;
+        }
+       public bool UpdateCheck(int enterPriseID)
+        {
+            IEnterpriseRepository _enterpriseRepository = RepositoryFactory.EnterpriseRepository;
+            Enterprise enterprise = _enterpriseRepository.LoadEntities(Enterprise=>Enterprise.Enterprise_ID==enterPriseID).FirstOrDefault();
+            enterprise.Checked = true;
+            return _enterpriseRepository.UpdateEntity(enterprise);
         }
     }
 }

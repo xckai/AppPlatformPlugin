@@ -9,5 +9,6 @@ namespace AppPlatform.RegisterServie.BLL
     public interface IRegisterService
     {
         RegisterInfo Regiter(Enterprise enterPrise, User user, string enterPriseType);
+        bool UpdateCheck(int enterPriseID);
     }
 }
