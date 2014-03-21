@@ -8,12 +8,12 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatf
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\obj\Debug\Appplatform.LogService.BLL.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\obj\Debug\Appplatform.LogService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\obj\Debug\Appplatform.LogService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\obj\Debug\Appplatform.LogService.BLL.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\bin\Appplatform.LogService.BLL.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\bin\Appplatform.LogService.BLL.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\bin\EntityFramework.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\bin\EntityFramework.SqlServer.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\bin\EntityFramework.xml
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\bin\EntityFramework.SqlServer.xml
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\obj\Debug\Appplatform.LogService.BLL.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\obj\Debug\Appplatform.LogService.BLL.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Appplatform.LogService.BLL\obj\Debug\Appplatform.LogService.BLL.pdb

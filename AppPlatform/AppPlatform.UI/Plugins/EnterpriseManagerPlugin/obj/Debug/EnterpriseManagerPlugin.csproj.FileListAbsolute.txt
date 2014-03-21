@@ -141,6 +141,7 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Enterpri
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\obj\Debug\EnterpriseManagerPlugin.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\obj\Debug\EnterpriseManagerPlugin.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\obj\Debug\EnterpriseManagerPlugin.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\obj\Debug\EnterpriseManagerPlugin.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\bin\EnterpriseManagerPlugin.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\bin\EnterpriseManagerPlugin.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\bin\Microsoft.Web.Infrastructure.dll
@@ -170,6 +171,5 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\Enterprise
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\obj\Debug\EnterpriseManagerPlugin.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\obj\Debug\EnterpriseManagerPlugin.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\EnterpriseManagerPlugin\obj\Debug\EnterpriseManagerPlugin.pdb

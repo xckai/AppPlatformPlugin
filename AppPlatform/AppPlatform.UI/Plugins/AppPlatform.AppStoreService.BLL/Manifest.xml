@@ -3,6 +3,5 @@
   <Activator Type="AppPlatform.AppStoreService.BLL.Activator" Policy="Immediate" />
   <Runtime>
     <Assembly Path="bin\AppPlatform.AppStoreService.BLL.dll" Share="true" />
-    <Dependency BundleSymbolicName="AppPlatform.LogService.BLL" AssemblyName="AppPlatform.LogService.BLL" Resolution="Mandatory" />
   </Runtime>
 </Bundle>

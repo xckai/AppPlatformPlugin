@@ -26,4 +26,3 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatfor
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\bin\UIShell.OSGi.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\obj\Debug\AppPlatform.AppInfoService.BLL.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\obj\Debug\AppPlatform.AppInfoService.BLL.pdb
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\obj\Debug\AppPlatform.AppInfoService.BLL.csprojResolveAssemblyReference.cache

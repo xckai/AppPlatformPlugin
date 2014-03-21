@@ -72,6 +72,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPlatform.AppClassService.BLL", "AppPlatform.AppClassService.BLL\AppPlatform.AppClassService.BLL.csproj", "{15DD31EA-EB21-497A-9910-A6036F576E24}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPlatform.LoginService.BLL", "AppPlatform.LoginService.BLL\AppPlatform.LoginService.BLL.csproj", "{893B5B63-5FA9-4B3F-A5FF-7839A5897772}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E23410D3-3039-4828-BA44-7E3658284812} = {E23410D3-3039-4828-BA44-7E3658284812}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppPlatform.RegisterServie.BLL", "AppPlatform.RegisterServie.BLL\AppPlatform.RegisterServie.BLL.csproj", "{DF92CB13-ED89-46CD-9504-09BCE5C5A7A1}"
 EndProject

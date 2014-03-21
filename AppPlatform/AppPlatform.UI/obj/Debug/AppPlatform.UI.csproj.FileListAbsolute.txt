@@ -1,163 +1,14 @@
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.csprojResolveAssemblyReference.cache
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.pdb
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.pdb
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\Antlr3.Runtime.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.DAL.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.IDAL.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.LoginService.BLL.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.Model.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\EntityFramework.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\Newtonsoft.Json.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Net.Http.Formatting.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Http.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Http.WebHost.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Mvc.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Optimization.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Providers.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Razor.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Deployment.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Razor.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\WebGrease.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.LoginService.BLL.pdb
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.pdb
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.pdb
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.pdb
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.DAL.pdb
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.IDAL.pdb
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\AppPlatform.Model.pdb
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\EntityFramework.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\Newtonsoft.Json.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Net.Http.Formatting.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Http.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Http.WebHost.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Mvc.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.Razor.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Deployment.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Razor.xml
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Http.resources.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Mvc.resources.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Optimization.resources.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Providers.resources.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Razor.resources.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.resources.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
-C:\Users\yy\Downloads\AppPlatformPlugin-master (1)\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.pdb
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Antlr3.Runtime.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.LoginService.BLL.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\EntityFramework.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Newtonsoft.Json.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Net.Http.Formatting.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.WebHost.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Mvc.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Optimization.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Providers.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Razor.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Deployment.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Razor.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\WebGrease.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.LoginService.BLL.pdb
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.pdb
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.pdb
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.pdb
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\EntityFramework.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Newtonsoft.Json.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Net.Http.Formatting.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.WebHost.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Mvc.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Razor.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Deployment.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Razor.xml
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Http.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Mvc.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Optimization.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Providers.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Razor.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.csprojResolveAssemblyReference.cache
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.dll
-C:\Users\chilton\Desktop\AppPlatform\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.csprojResolveAssemblyReference.cache
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Antlr3.Runtime.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\EntityFramework.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Infrastructure.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Newtonsoft.Json.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Net.Http.Formatting.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.WebHost.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Mvc.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Optimization.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Providers.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Razor.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Deployment.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Razor.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\WebGrease.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\EntityFramework.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Newtonsoft.Json.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Net.Http.Formatting.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.WebHost.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Mvc.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Razor.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Deployment.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.WebPages.Razor.xml
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Http.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Mvc.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Optimization.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Providers.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.Razor.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.dll
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.pdb
-F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.UI.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Antlr3.Runtime.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.Contracts.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\EntityFramework.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Infrastructure.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Newtonsoft.Json.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.Core.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Net.Http.Formatting.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.WebHost.dll
@@ -171,10 +22,15 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Web
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\WebGrease.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.Contracts.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppplatformCommon.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.OSGi.MvcCore.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\UIShell.Extension.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\EntityFramework.xml
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.xml
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.Core.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.Core.xml
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\Newtonsoft.Json.xml
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Net.Http.Formatting.xml
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\System.Web.Http.xml
@@ -197,11 +53,3 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\zh-Hans\System
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\obj\Debug\AppPlatform.UI.pdb
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.Contracts.dll
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.Core.dll
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.dll
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\AppPlatform.Contracts.pdb
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.pdb
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.xml
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.Core.pdb
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\bin\NServiceBus.Core.xml

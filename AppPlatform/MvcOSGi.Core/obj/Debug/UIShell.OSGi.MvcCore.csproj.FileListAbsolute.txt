@@ -26,4 +26,3 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\bin\Debug\UIShell.OS
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\bin\Debug\UIShell.OSGi.MvcCore.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.pdb
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\MvcOSGi.Core\obj\Debug\UIShell.OSGi.MvcCore.csprojResolveAssemblyReference.cache

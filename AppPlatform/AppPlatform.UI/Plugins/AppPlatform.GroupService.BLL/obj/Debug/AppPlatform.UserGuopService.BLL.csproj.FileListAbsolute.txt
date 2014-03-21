@@ -1,6 +1,0 @@
-F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UserGuopService.BLL\bin\AppPlatform.UserGuopService.BLL.dll
-F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UserGuopService.BLL\bin\AppPlatform.UserGuopService.BLL.pdb
-F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UserGuopService.BLL\bin\UIShell.OSGi.dll
-F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UserGuopService.BLL\obj\Debug\AppPlatform.UserGuopService.BLL.dll
-F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UserGuopService.BLL\obj\Debug\AppPlatform.UserGuopService.BLL.pdb
-F:\实验室项目\AppPlatform\AppPlatform\AppPlatform\AppPlatform.UserGuopService.BLL\obj\Debug\AppPlatform.UserGuopService.BLL.csprojResolveAssemblyReference.cache

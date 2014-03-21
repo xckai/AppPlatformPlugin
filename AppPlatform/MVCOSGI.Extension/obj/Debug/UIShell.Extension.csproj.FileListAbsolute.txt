@@ -30,6 +30,5 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIS
 F:\实验室项目\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Extension.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Extension.pdb
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.pdb

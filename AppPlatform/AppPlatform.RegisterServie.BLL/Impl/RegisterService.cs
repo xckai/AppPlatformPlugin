@@ -22,7 +22,9 @@ namespace AppPlatform.RegisterServie.BLL
                 enterprise = enterPriseVariable;
                 enterprise.Checked = false;
                 IEnterpriseRepository _enterpriseRepository = RepositoryFactory.EnterpriseRepository;
+
                 Enterprise MaxenterpriseID = _enterpriseRepository.LoadEntities(Enterprise => Enterprise.Enterprise_ID >= 10000).Last();
+
                 if (MaxenterpriseID == null)
                 {
                     enterprise.Enterprise_ID = 10000;
@@ -86,6 +88,7 @@ namespace AppPlatform.RegisterServie.BLL
         {
             IEnterpriseRepository _enterpriseRepository = RepositoryFactory.EnterpriseRepository;
             Enterprise enterprise = _enterpriseRepository.LoadEntities(Enterprise => Enterprise.Enterprise_ID == enterPriseID).FirstOrDefault();
+
             enterprise.Checked = true;
             return _enterpriseRepository.UpdateEntity(enterprise);
         }

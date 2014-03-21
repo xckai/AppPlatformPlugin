@@ -126,6 +126,7 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleMana
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\obj\Debug\RoleManagerPlugin.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\obj\Debug\RoleManagerPlugin.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\obj\Debug\RoleManagerPlugin.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\obj\Debug\RoleManagerPlugin.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\bin\RoleManagerPlugin.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\bin\RoleManagerPlugin.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\bin\Antlr3.Runtime.dll
@@ -166,6 +167,5 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManage
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\obj\Debug\RoleManagerPlugin.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\obj\Debug\RoleManagerPlugin.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\RoleManagerPlugin\obj\Debug\RoleManagerPlugin.pdb

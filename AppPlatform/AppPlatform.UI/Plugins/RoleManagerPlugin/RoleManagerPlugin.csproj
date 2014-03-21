@@ -393,6 +393,21 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\AppPlatform.DAL\AppPlatform.DAL.csproj">
+      <Project>{cd97f16b-08c6-41ba-8ac1-377fbc4ac59d}</Project>
+      <Name>AppPlatform.DAL</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\AppPlatform.IDAL\AppPlatform.IDAL.csproj">
+      <Project>{52cf0184-191e-4005-9b30-6eaec8d363fa}</Project>
+      <Name>AppPlatform.IDAL</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\AppPlatform.Model\AppPlatform.Model.csproj">
+      <Project>{e23410d3-3039-4828-ba44-7e3658284812}</Project>
+      <Name>AppPlatform.Model</Name>
+      <Private>False</Private>
+    </ProjectReference>
     <ProjectReference Include="..\AppPlatform.GroupPermissionService.BLL\AppPlatform.GroupPermissionService.BLL.csproj">
       <Project>{3a4d6871-6907-4caf-9dc5-e23ad92ad581}</Project>
       <Name>AppPlatform.GroupPermissionService.BLL</Name>
@@ -448,7 +463,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>1313</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:19101/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>

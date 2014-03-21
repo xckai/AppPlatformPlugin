@@ -153,6 +153,7 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManag
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\obj\Debug\LogManagerPlugin.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\obj\Debug\LogManagerPlugin.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\obj\Debug\LogManagerPlugin.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\bin\LogManagerPlugin.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\bin\LogManagerPlugin.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\bin\AppPlatform.DAL.dll
@@ -195,6 +196,5 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManager
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\obj\Debug\LogManagerPlugin.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\obj\Debug\LogManagerPlugin.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\LogManagerPlugin\obj\Debug\LogManagerPlugin.pdb
