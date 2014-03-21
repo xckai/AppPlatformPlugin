@@ -1,0 +1,4 @@
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\AppPlatform.Contracts.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\AppPlatform.Contracts.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.pdb

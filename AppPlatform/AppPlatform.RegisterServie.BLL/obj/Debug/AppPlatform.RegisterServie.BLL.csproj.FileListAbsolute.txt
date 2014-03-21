@@ -9,3 +9,14 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\AppPlatform.RegisterServie.BLL.dll.config
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\AppPlatform.RegisterServie.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\AppPlatform.RegisterServie.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\EntityFramework.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\EntityFramework.SqlServer.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\UIShell.OSGi.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\EntityFramework.xml
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\EntityFramework.SqlServer.xml
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.csprojResolveAssemblyReference.cache
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.pdb

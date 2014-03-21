@@ -21,3 +21,9 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatf
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\obj\Debug\AppPlatform.AppInfoService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\obj\Debug\AppPlatform.AppInfoService.BLL.pdb
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\obj\Debug\AppPlatform.AppInfoService.BLL.csprojResolveAssemblyReference.cache
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\bin\AppPlatform.AppInfoService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\bin\AppPlatform.AppInfoService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\bin\UIShell.OSGi.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\obj\Debug\AppPlatform.AppInfoService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\obj\Debug\AppPlatform.AppInfoService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppInfoService.BLL\obj\Debug\AppPlatform.AppInfoService.BLL.csprojResolveAssemblyReference.cache

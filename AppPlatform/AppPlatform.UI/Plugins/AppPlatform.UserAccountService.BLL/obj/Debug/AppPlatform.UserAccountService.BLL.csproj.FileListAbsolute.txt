@@ -26,3 +26,8 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatf
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\UIShell.OSGi.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.UserAccountService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.UserAccountService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\UIShell.OSGi.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.pdb

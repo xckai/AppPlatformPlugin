@@ -20,3 +20,8 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatf
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\bin\UIShell.OSGi.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\obj\Debug\AppPlatform.AppStoreService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\obj\Debug\AppPlatform.AppStoreService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\bin\AppPlatform.AppStoreService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\bin\AppPlatform.AppStoreService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\bin\UIShell.OSGi.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\obj\Debug\AppPlatform.AppStoreService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\obj\Debug\AppPlatform.AppStoreService.BLL.pdb

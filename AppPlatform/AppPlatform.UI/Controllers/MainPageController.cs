@@ -15,6 +15,7 @@ namespace AppPlatform.UI.Controllers
     {
         //
         // GET: /MainPage/
+        
         [HttpPost]
         public ActionResult LoginSuccess()
         {
@@ -29,22 +30,22 @@ namespace AppPlatform.UI.Controllers
                 //ViewData["EnterpriseName"] = enterPriseID+ "企业：";
                 //ViewData["userName"] = userID;
                 Session["LoginError"] = "登录错误：用户不存在";
-                return RedirectToAction("Login");
+                return Redirect("/Account/Login");
             }
             else if (userLoginInfo.loginResult == LoginResult.pwdError)
             {
                 Session["LoginError"] = "登录错误：密码错误";
-                return RedirectToAction("Login");
+                return Redirect("/Account/Login");
             }
             else if (userLoginInfo.loginResult == LoginResult.userUnchecked)
             {
                 Session["LoginError"] = "登录错误：用户未认证";
-                return RedirectToAction("Login");
+                return Redirect("/Account/Login");
             }
             else if (userLoginInfo.loginResult == LoginResult.userStop)
             {
                 Session["LoginError"] = "登录错误：用户账户停用";
-                return RedirectToAction("Login");
+                return Redirect("/Account/Login");
             }
             else if (userLoginInfo.loginResult == LoginResult.ok)
             {

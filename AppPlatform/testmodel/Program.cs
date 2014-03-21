@@ -7,6 +7,7 @@ using AppPlatform.Model.Models;
 using System.Data.SqlClient;
 using AppPlatform.IDAL;
 using AppPlatform.DAL;
+using AppPlatform.RegisterServie.BLL;
 
 namespace testmodel
 {
@@ -134,6 +135,8 @@ namespace testmodel
             //gf3.Function_ID = 4;
             //_GF.AddEntity(gf3);
 
+            IRegisterService service = new RegisterService();
+            service.UpdateCheck(10008);
 
         }
     }

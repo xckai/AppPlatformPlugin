@@ -9,6 +9,7 @@ using AppPlatform.DAL;
 using AppPlatform.IDAL;
 using AppPlatform.Model.Models;
 using AppPlatform.RegisterServie.BLL;
+using AppPlatform.Contracts.Commands.RegistryService;
 
 namespace AppPlatform.UI.Controllers
 {
@@ -36,6 +37,7 @@ namespace AppPlatform.UI.Controllers
         [HttpPost]
         public ActionResult Register()
         {
+            
             Enterprise enterprise = new Enterprise();
             User user = new User();
             enterprise.Enterprise_Name = Request.Form["Enterprise_Name"];
@@ -46,6 +48,15 @@ namespace AppPlatform.UI.Controllers
             var EnterpriseType = "EnterpriseAdmin";
             IRegisterService _registerService = new AppPlatform.RegisterServie.BLL.RegisterService();
             RegisterInfo registerInfo = _registerService.Regiter(enterprise, user, EnterpriseType);
+            
+            ServiceBus.Bus.Send(new CreateNewUserCmd 
+            {
+                
+                EnterpriseId = registerInfo.EnterpriseAccount,
+                UserId = registerInfo.UserAccount,
+                EmailAddress = enterprise.Enterprise_Email
+            });
+
             return RedirectToAction("Login");
         }
         

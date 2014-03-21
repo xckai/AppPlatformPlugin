@@ -14,3 +14,8 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatf
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\bin\UIShell.OSGi.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\obj\Debug\AppPlatform.EnterpriseClassService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\obj\Debug\AppPlatform.EnterpriseClassService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\bin\AppPlatform.EnterpriseClassService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\bin\AppPlatform.EnterpriseClassService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\bin\UIShell.OSGi.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\obj\Debug\AppPlatform.EnterpriseClassService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseClassService.BLL\obj\Debug\AppPlatform.EnterpriseClassService.BLL.pdb

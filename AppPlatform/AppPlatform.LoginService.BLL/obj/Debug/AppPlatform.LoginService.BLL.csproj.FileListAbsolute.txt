@@ -39,3 +39,14 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bi
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.SqlServer.xml
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.dll.config
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\AppPlatform.LoginService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.SqlServer.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\UIShell.OSGi.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.xml
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\bin\EntityFramework.SqlServer.xml
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.csprojResolveAssemblyReference.cache
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.LoginService.BLL\obj\Debug\AppPlatform.LoginService.BLL.pdb

@@ -68,6 +68,10 @@
       <Project>{e23410d3-3039-4828-ba44-7e3658284812}</Project>
       <Name>AppPlatform.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AppPlatform.RegisterServie.BLL\AppPlatform.RegisterServie.BLL.csproj">
+      <Project>{df92cb13-ed89-46cd-9504-09bce5c5a7a1}</Project>
+      <Name>AppPlatform.RegisterServie.BLL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -33,3 +33,15 @@ F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\obj\Debug\UIShell.IoCPlugin.csprojResolveAssemblyReference.cache
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\obj\Debug\UIShell.IoCPlugin.dll
 F:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\obj\Debug\UIShell.IoCPlugin.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\bin\UIShell.IoCPlugin.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\bin\UIShell.IoCPlugin.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\bin\Autofac.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\bin\Autofac.Integration.Mvc.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\bin\UIShell.OSGi.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\bin\UIShell.OSGi.MvcCore.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\bin\UIShell.OSGi.MvcCore.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\bin\Autofac.xml
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\bin\Autofac.Integration.Mvc.xml
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\obj\Debug\UIShell.IoCPlugin.csprojResolveAssemblyReference.cache
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\obj\Debug\UIShell.IoCPlugin.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\UIShell.IoCPlugin\obj\Debug\UIShell.IoCPlugin.pdb

@@ -1,0 +1,5 @@
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\bin\AppPlatform.AppClassService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\bin\AppPlatform.AppClassService.BLL.pdb
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\bin\UIShell.OSGi.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\obj\Debug\AppPlatform.AppClassService.BLL.dll
+E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.AppClassService.BLL\obj\Debug\AppPlatform.AppClassService.BLL.pdb

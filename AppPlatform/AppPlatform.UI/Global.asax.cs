@@ -32,6 +32,9 @@ namespace AppPlatform.UI
 
         protected void Application_Start()
         {
+
+            ServiceBus.Init();
+
             //Register Razor view engine for bundle.
             ViewEngines.Engines.Add(new BundleRuntimeViewEngine(new BundleRazorViewEngineFactory()));
             //Register WebForm view engine.
@@ -45,6 +48,8 @@ namespace AppPlatform.UI
             BundleConfig.RegisterBundles(BundleTable.Bundles);
 
             MonitorExtension();
+
+            
         }
         private void MonitorExtension()
         {
