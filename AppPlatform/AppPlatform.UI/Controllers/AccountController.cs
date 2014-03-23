@@ -32,6 +32,9 @@ namespace AppPlatform.UI.Controllers
 
         public ActionResult Create()//创建用户界面
         {
+            IGroupRepository _group = RepositoryFactory.GroupRepository;
+            List<Group> grouplist = _group.LoadEntities(Group => Group.Group_ID > 0).ToList<Group>();
+            ViewData["group"] = grouplist;
             return View();
         }
         [HttpPost]
@@ -45,7 +48,7 @@ namespace AppPlatform.UI.Controllers
             user.Password = Request.Form["Enterprise_Pas"];
             enterprise.Enterprise_Code = Request.Form["Enterprise_Code"];
             enterprise.Enterprise_Email = Request.Form["Enterprise_Email"];
-            var EnterpriseType = "EnterpriseAdmin";
+            var EnterpriseType = Request.Form["Enterprise_Type"];
             IRegisterService _registerService = new AppPlatform.RegisterServie.BLL.RegisterService();
             RegisterInfo registerInfo = _registerService.Regiter(enterprise, user, EnterpriseType);
             

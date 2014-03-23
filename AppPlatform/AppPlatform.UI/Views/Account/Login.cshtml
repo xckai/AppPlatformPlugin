@@ -14,7 +14,7 @@
     <script src="~/Scripts/easyui-lang-zh_CN.js"></script>
     <style type="text/css">
         .code {
-            background-image:url(code.jpg);
+            background-image:url(~/Content/Image/code.png);
             font-family:Arial;
             font-style:italic;
             color:red;
@@ -69,9 +69,9 @@
         var code;
         function createCode() {
             code = "";
-            var codelength = 6;
+            var codelength = 4;
             var checkCode = document.getElementById("checkcode");
-            var selectChar = new Array(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z');
+            var selectChar = new Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'J', 'K', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z');
             for (var i = 0; i < codelength; i++) {
                 var charIndex = Math.floor(Math.random() * 36);
                 code += selectChar[charIndex];
@@ -82,13 +82,14 @@
             }
         }
         function checkPIN() {
-            var inputcode = document.getElementsByName("PIN");
+            var inputcode = document.getElementsByName("PIN").value.toUpperCase();
+            var codeToUp = code.toUpperCase();
             var Perr = document.getElementById("PINerr");
             if (inputcode[0].value.length <= 0) {
                 Perr.innerHTML = "*验证码不能为空";
                 return false;
             }
-            else if (inputcode[0].value != code) {
+            else if (inputcode[0].value != codeToUp) {
                 Perr.innerHTML = "*验证码输入错误";
                 return false;
             }
@@ -120,7 +121,7 @@
      <div style="width:450px;height:345px;background-color:#fcfefc">
          <div style="border-bottom:2px solid rgba(167, 163, 163, 0.27)"><h1>欢迎登录</h1></div>
         <div style="padding:0 0 0 50px;margin-top:10px">
-        <form id="LoginForm" method="post" action="MainPage/LoginSuccess">
+        <form id="LoginForm" method="post" action="/MainPage/LoginSuccess">
             <div>
                 <div>
                    <p style="font-size:20px">企业ID:<input onblur="checkEntID()" class="easyui-validatebox" type="text" name="EnterpriseID" style="height:20px;width:200px;border-radius:2px"/>
@@ -136,7 +137,8 @@
                 </div>
                 <div>
                  <p style="font-size:20px">验证码:<input onblur="checkPIN()" type="text" name="PIN"  style="height:20px;width:100px;border-radius:2px"/>
-                     <input type="text" onclick="createCode()" readonly="readonly" id="checkcode" style="height:20px;width:80px;border:0;cursor:pointer" />
+                     <input type="text"  class="code" readonly="readonly" id="checkcode" style="height:20px;width:45px;border:0;cursor:pointer" />
+                     <a href="#" onclick="createCode()" style="font-size:small">看不清</a>
                      <span id="PINerr" style="color:red;font-size:12px"></span>
                      </p>
                 </div>

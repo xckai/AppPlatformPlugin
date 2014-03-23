@@ -151,6 +151,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\default.css" />
+    <Content Include="Content\Image\code.png" />
     <Content Include="Content\Image\foot-bg.png" />
     <Content Include="Content\Image\icons\16\book.png" />
     <Content Include="Content\Image\icons\16\cabinet.png" />

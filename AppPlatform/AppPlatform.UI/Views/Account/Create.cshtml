@@ -172,7 +172,15 @@
 	    		        </tr>
                         <tr>
 	    			    <td>企业类型：</td>
-	    			    <th><select name="Enterprise_Type"><option value="0"></option><option value="1">供应商</option><option value="2">开发商</option></select>
+	    			    <th><select name="Enterprise_Type">
+                            @{
+                                var grouplist=ViewData["group"] as List<AppPlatform.Model.Models.Group>;
+                                foreach(var item in grouplist)
+                                {
+                                     <option value="@item.Group_ID">@item.Group_Desc</option>
+                                }
+                                }
+                            </select>
                             <span id="Type_err" style="color:red;font-size:13px"></span>
 	    			    </th>
 	    		        </tr>

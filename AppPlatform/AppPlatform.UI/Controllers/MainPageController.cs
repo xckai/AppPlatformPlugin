@@ -80,14 +80,14 @@ namespace AppPlatform.UI.Controllers
             int UserID =Convert.ToInt32(Session["UserAccount"]);
             IUserRepository _userRepository = RepositoryFactory.UserRepository;
             User user = _userRepository.LoadEntities(User => User.User_ID == UserID).FirstOrDefault();
-            if (user.User_ID != Convert.ToInt32(Request.Form["User_Pas0"]))
+            if (user.Password != Request.Form["User_Pas0"])
             {
                 return false;
             
             }
             else
             {
-                user.User_ID = Convert.ToInt32(Request.Form["User_Pas"]);
+                user.Password= Request.Form["User_Pas"];
                 _userRepository.UpdateEntity(user);
                 return true;
             }

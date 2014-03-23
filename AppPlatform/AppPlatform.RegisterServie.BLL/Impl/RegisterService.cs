@@ -66,7 +66,8 @@ namespace AppPlatform.RegisterServie.BLL
             try
             {
                 IGroupRepository _groupRepository = RepositoryFactory.GroupRepository;
-                Group group = _groupRepository.LoadEntities(Group => Group.Group_Name == enterPriseType).FirstOrDefault();//读取用户组别类型ID
+                int groupid = Convert.ToInt32(enterPriseType);
+                Group group = _groupRepository.LoadEntities(Group => Group.Group_ID == groupid).FirstOrDefault();//读取用户组别类型ID
                 IUserRepository _userRepository = RepositoryFactory.UserRepository;
                 var UserNew = _userRepository.LoadEntities(User => User.Enterprise_ID == user.Enterprise_ID && User.User_ID ==user.User_ID).FirstOrDefault();
                 User_Group uGroup = new User_Group();
