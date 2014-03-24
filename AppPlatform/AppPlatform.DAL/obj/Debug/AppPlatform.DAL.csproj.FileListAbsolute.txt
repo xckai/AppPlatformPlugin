@@ -18,3 +18,13 @@ G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\Entit
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.csprojResolveAssemblyReference.cache
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.dll
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.dll.config
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\AppPlatform.DAL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.xml
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.csprojResolveAssemblyReference.cache
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.DAL\obj\Debug\AppPlatform.DAL.pdb

@@ -31,3 +31,8 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatFor
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\UIShell.OSGi.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\AppPlatForm.EnterpriseOrganService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\AppPlatForm.EnterpriseOrganService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\bin\UIShell.OSGi.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatForm.EnterpriseOrganService.BLL\obj\Debug\AppPlatForm.EnterpriseOrganService.BLL.pdb

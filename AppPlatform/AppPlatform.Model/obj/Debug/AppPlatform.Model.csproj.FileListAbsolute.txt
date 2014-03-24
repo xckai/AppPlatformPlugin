@@ -16,3 +16,12 @@ G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\Ent
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.SqlServer.xml
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.dll
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\AppPlatform.Model.dll.config
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\AppPlatform.Model.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\AppPlatform.Model.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.xml
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Model\obj\Debug\AppPlatform.Model.pdb

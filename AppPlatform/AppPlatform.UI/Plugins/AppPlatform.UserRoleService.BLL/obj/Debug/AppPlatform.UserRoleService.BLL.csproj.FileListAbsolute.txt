@@ -25,3 +25,8 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatfor
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\bin\UIShell.OSGi.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\bin\AppPlatform.UserRoleService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\bin\AppPlatform.UserRoleService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\bin\UIShell.OSGi.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserRoleService.BLL\obj\Debug\AppPlatform.UserRoleService.BLL.pdb

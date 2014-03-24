@@ -8,9 +8,10 @@ namespace Appplatform.LogService.BLL
     public interface ILogService
     {
         bool LogWrite(Log a);
+        List<Log> LogGetAll();
         List<Log> LogGet(DateTime StartTime, DateTime EndTime);
-        List<Log> LogGet(String LogClass, DateTime StartTime, DateTime EndTime);
-        bool LogDelete(Log a);
+        List<Log> LogGet(Log.t LogClass, DateTime StartTime, DateTime EndTime);
+        bool LogDelete(int id);
 
     }
 }

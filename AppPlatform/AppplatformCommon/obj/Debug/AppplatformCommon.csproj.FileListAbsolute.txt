@@ -6,3 +6,8 @@ G:\实验室项目\AppPlatformPlugin\AppPlatform\AppplatformCommon\bin\Debug\App
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppplatformCommon\bin\Debug\AppplatformCommon.pdb
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppplatformCommon\obj\Debug\AppplatformCommon.dll
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppplatformCommon\obj\Debug\AppplatformCommon.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppplatformCommon\bin\Debug\AppplatformCommon.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppplatformCommon\bin\Debug\AppplatformCommon.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppplatformCommon\obj\Debug\AppplatformCommon.csprojResolveAssemblyReference.cache
+F:\project\AppPlatformPlugin\AppPlatform\AppplatformCommon\obj\Debug\AppplatformCommon.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppplatformCommon\obj\Debug\AppplatformCommon.pdb

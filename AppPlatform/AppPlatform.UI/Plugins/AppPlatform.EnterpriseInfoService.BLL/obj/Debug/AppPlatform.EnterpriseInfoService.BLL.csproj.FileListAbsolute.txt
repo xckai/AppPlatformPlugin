@@ -3,3 +3,8 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatfor
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseInfoService.BLL\bin\UIShell.OSGi.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseInfoService.BLL\obj\Debug\AppPlatform.EnterpriseInfoService.BLL.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseInfoService.BLL\obj\Debug\AppPlatform.EnterpriseInfoService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseInfoService.BLL\bin\AppPlatform.EnterpriseInfoService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseInfoService.BLL\bin\AppPlatform.EnterpriseInfoService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseInfoService.BLL\bin\UIShell.OSGi.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseInfoService.BLL\obj\Debug\AppPlatform.EnterpriseInfoService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseInfoService.BLL\obj\Debug\AppPlatform.EnterpriseInfoService.BLL.pdb

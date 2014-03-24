@@ -19,3 +19,8 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatfor
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\UIShell.OSGi.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\AppPlatform.EnterpriseMenuService.bll.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\AppPlatform.EnterpriseMenuService.bll.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\UIShell.OSGi.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseMenuService.bll.pdb

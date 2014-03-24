@@ -12,72 +12,93 @@
     <link href="~/Content/themes/icon.css" rel="stylesheet" />
     <script src="~/Scripts/jquery-1.8.0.min.js"></script>
     <script src="~/Scripts/jquery.easyui.min.js"></script>
-    <script>
+
+    <script type="text/javascript">
+
         function SearchLog() {
+            var type = $('#LogType').val();
+            var start = $('#LogStartTime').datebox("getValue");
+            var end = $('#LogEndTime').datebox("getValue");
 
-            alert("hello world");
-            $(function () {
-                $("#Search").submit(function () {
-                    var LogType = $("#LogType").val();
-                    var StartTime = $("#StartTime").val();
-                    var EndTime = $("#EndTime").val();
-                    $.post(
-                      "LogManagerController.cs",
-                      {
-                          arr: LogType + "," + StartTime + "," + EndTime
-                      });
-                    return false;
+            $('#aaa').datagrid({
+                url: "@Url.Action("SearchLog")" + "?Type=" + type + "&Start=" + start + "&End=" + end,
+                method: 'get'
+            });
 
-                })
-            })
         }
-          
-          
+
+        function DeleteLog() {
+            var row = $('#aaa').datagrid('getSelected');
+            if (row) {
+                $.messager.confirm('Confirm', 'Are you sure you want to delete this log?', function (r) {
+                    if (r) {
+                        $.post('DeleteLog?id=' + row.Log_ID, function (result) {
+                            if (result == "True") {
+                                $('#aaa').datagrid('reload');    // reload the log data
+                            } else {
+                                $.messager.show({    // show error message
+                                    title: 'Error',
+                                    msg: '删除错误'
+                                });
+                            }
+                        });
+                    }
+                });
+            }
+        }
+        function getData() {
+
+            $('#aaa').datagrid({
+                url: '@Url.Action("GetLogJson")',
+
+                method: 'get'
+            });
+        }
+        $(document).ready(function () {
+
+            getData();
+
+        })
+
     </script>
+    
 </head>
 <body>
-<div  data-options="fit:true,border:false">
-   <table class="easyui-datagrid" 
-            data-options="rownumbers:true,singleSelect:true,url:'datagrid_data1.json',method:'get',toolbar:'#tb',pagination:true,
-                pageSize:10">
-        
+    <div style="width:100%">
+    <table id="aaa" title="日志列表" class="easyui-datagrid"
+            method="get" data-options="onClickRow:onclick"
+            toolbar="#toolbar" pagination="true" idField="id"
+            rownumbers="true" fitColumns="true"  singleSelect="true" >
         <thead>
             <tr>
-                <th data-options="field:'LogName',width:100,align:'center'">日志名称</th>
-                <th data-options="field:'UserName',width:100,align:'center'">日志创建人</th>
-                <th data-options="field:'LogCreateTime',width:120,align:'center'">日志创建时间</th>
-                <th data-options="field:'LogType',width:100,align:'center'">日志类型</th>
-                <th data-options="field:'LogContent',width:500,align:'center'">日志内容</th>
+                <th field="LogView_Log_ID" width="10%">日志序号</th>
+                <th field="LogView_Log_Name" width="10%">日志名称</th>
+                <th field="LogView_Log_Content" width="30%">日志内容</th>
+                <th field="LogView_User_ID" width="10%">用户序号</th>
+                <th field="LogView_Log_Time" width="10%">生成时间</th>
+                <th field="LogView_Log_Class" width="10%">日志类别</th>
+                <th field="LogView_Log_Note" width="20%">备注</th>
+
             </tr>
         </thead>
-       <tbody>
-        <tr>
-            <td>001</td><td>name1</td><td>2323</td>
-        </tr>
-        <tr>
-            <td>002</td><td>name2</td><td>4612</td>
-        </tr>
-    </tbody>
     </table>
-    <div id="tb" style="padding:5px;height:auto">
-        <div style="margin-bottom:5px">
-            <a href="#" class="easyui-linkbutton" iconCls="icon-remove" plain="true">删除</a>
-
-
-            <select id="LogType" class="easyui-combobox" name="dept"  >
+         
+    </div>
+    <div style="margin-bottom:5px" id="toolbar">
+             <span>
+             日志类别：
+            <select id="LogType">
                <option value="all">全部</option>
                <option value="system">系统日志</option>
                <option value="operation">操作日志</option>
            </select>
 
-             <span>
             开始时间: <input class="easyui-datebox" id="LogStartTime" style="width:80px"/>
-            结束时间: <input class="easyui-datebox" id="LogEndTime" style="width:80px"/>
+            结束时间: <input class="easyui-datebox" id="LogEndTime" style="width:80px" />
                  
-            <a href="#" id="Search" class="easyui-linkbutton" iconCls="icon-search" onclick="SearchLog()">搜索</a>
+            <a href="javascript:void(0)" class="easyui-linkbutton" iconCls="icon-search" plain="true" onclick="SearchLog()">搜索</a>
+            <a href="javascript:void(0)" class="easyui-linkbutton" iconCls="icon-remove" plain="true" onclick="DeleteLog()">删除日志</a>
         </span>
         </div>
-    </div>
-</div>
 </body>
 </html>

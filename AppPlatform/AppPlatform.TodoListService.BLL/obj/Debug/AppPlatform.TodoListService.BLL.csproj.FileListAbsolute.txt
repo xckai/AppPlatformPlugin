@@ -3,3 +3,8 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.TodoListService.BLL\b
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.TodoListService.BLL\bin\UIShell.OSGi.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.TodoListService.BLL\obj\Debug\AppPlatform.TodoListService.BLL.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.TodoListService.BLL\obj\Debug\AppPlatform.TodoListService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.TodoListService.BLL\bin\AppPlatform.TodoListService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.TodoListService.BLL\bin\AppPlatform.TodoListService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.TodoListService.BLL\bin\UIShell.OSGi.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.TodoListService.BLL\obj\Debug\AppPlatform.TodoListService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.TodoListService.BLL\obj\Debug\AppPlatform.TodoListService.BLL.pdb

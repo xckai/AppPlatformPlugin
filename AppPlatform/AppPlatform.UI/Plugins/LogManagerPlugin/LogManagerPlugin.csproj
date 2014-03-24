@@ -123,6 +123,7 @@
   <ItemGroup>
     <Compile Include="Activator.cs" />
     <Compile Include="Controllers\LogManagerController.cs" />
+    <Compile Include="Models\LogView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -380,9 +381,7 @@
     <Content Include="Scripts\Log.js" />
     <Content Include="Views\Web.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Views\LogManager\Index.cshtml" />
   </ItemGroup>

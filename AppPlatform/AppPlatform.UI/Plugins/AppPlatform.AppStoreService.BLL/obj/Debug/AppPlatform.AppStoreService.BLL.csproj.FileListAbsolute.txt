@@ -25,3 +25,8 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatfor
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\bin\UIShell.OSGi.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\obj\Debug\AppPlatform.AppStoreService.BLL.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\obj\Debug\AppPlatform.AppStoreService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\bin\AppPlatform.AppStoreService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\bin\AppPlatform.AppStoreService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\bin\UIShell.OSGi.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\obj\Debug\AppPlatform.AppStoreService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppStoreService.BLL\obj\Debug\AppPlatform.AppStoreService.BLL.pdb

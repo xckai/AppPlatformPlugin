@@ -26,3 +26,9 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatfor
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppOrderService.BLL\bin\UIShell.OSGi.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppOrderService.BLL\obj\Debug\AppPlatform.AppOrderService.BLL.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppOrderService.BLL\obj\Debug\AppPlatform.AppOrderService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppOrderService.BLL\bin\AppPlatform.AppOrderService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppOrderService.BLL\bin\AppPlatform.AppOrderService.BLL.pdb
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppOrderService.BLL\bin\UIShell.OSGi.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppOrderService.BLL\obj\Debug\AppPlatform.AppOrderService.BLL.csprojResolveAssemblyReference.cache
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppOrderService.BLL\obj\Debug\AppPlatform.AppOrderService.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.AppOrderService.BLL\obj\Debug\AppPlatform.AppOrderService.BLL.pdb

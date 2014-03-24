@@ -81,3 +81,6 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\testmodel\bin\Debug\EntityFramewo
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\testmodel\obj\Debug\testmodel.csprojResolveAssemblyReference.cache
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\testmodel\obj\Debug\testmodel.exe
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\testmodel\obj\Debug\testmodel.pdb
+F:\project\AppPlatformPlugin\AppPlatform\testmodel\bin\Debug\AppPlatform.RegisterServie.BLL.dll
+F:\project\AppPlatformPlugin\AppPlatform\testmodel\bin\Debug\UIShell.OSGi.dll
+F:\project\AppPlatformPlugin\AppPlatform\testmodel\bin\Debug\AppPlatform.RegisterServie.BLL.pdb
