@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using AppPlatform.IDAL;
+using AppPlatform.DAL;
+using AppPlatform.Model.Models;
 
 namespace AppPlatform.UI.Controllers
 {
@@ -13,7 +16,10 @@ namespace AppPlatform.UI.Controllers
 
         public ActionResult SystemFunction(int ID)
         {
-            ViewBag.ID = ID;
+           var  FunctionID = ID;
+           IFunctionRepository _fuctionRepository = RepositoryFactory.FunctionRepository;
+           List<Function> functionlist = _fuctionRepository.LoadEntities(Function => Function.Function_PID == FunctionID).ToList<Function>();
+           ViewData["functionlist"] = functionlist;
             return View();
         }
 

@@ -38,7 +38,7 @@
     <div data-options="region:'west'"  title="导航菜单" style="width:180px;" id="west">
     <div class="easyui-accordion" data-options="fit:true,border:false">
 		<!--  导航内容--> 
-        @{
+       @* @{
        var viewModel = UIShell.OSGi.BundleRuntime.Instance.GetFirstOrDefaultService<ApplicationViewModel>();
          if (viewModel != null)
           {
@@ -49,10 +49,18 @@
                                        <input type="button" id="@mainMenuItem.URL" onclick="create(this)" value="@mainMenuItem.Text" style="width:100%"/> 
                                    }
                                 }
-                            }
+                            //}
            } 
 			
-	</div>
+	*@
+        @{
+            var fuctionlist = ViewData["functionlist"] as List<AppPlatform.Model.Models.Function>;
+            foreach(var fun in fuctionlist)
+            {
+                 <input type="button" id="@fun.Function_Url" onclick="create(this)" value="@fun.Function_Name" style="width:100%"/> 
+            }
+            }
+    </div>
     </div>
     <div id="mainPanle" data-options="region:'center'" style="background: #eee;height:100%">
         <div id="tabs" class="easyui-tabs"  data-options="fit:true,border:false" style="overflow:hidden" >
