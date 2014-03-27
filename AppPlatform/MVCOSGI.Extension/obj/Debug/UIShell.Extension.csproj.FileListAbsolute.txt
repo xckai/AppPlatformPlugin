@@ -36,3 +36,7 @@ F:\project\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Ext
 F:\project\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Extension.pdb
 F:\project\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.dll
 F:\project\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.pdb
+G:\实验室项目\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Extension.dll
+G:\实验室项目\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\bin\Debug\UIShell.Extension.pdb
+G:\实验室项目\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.dll
+G:\实验室项目\AppPlatformPlugin\AppPlatform\MVCOSGI.Extension\obj\Debug\UIShell.Extension.pdb

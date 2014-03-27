@@ -46,7 +46,7 @@ namespace AppPlatform.UI
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-
+            System.Data.Entity.Database.SetInitializer(new AppPlatform.Model.Models.DBEnterpriseInit());
             MonitorExtension();
 
             

@@ -2,13 +2,12 @@ E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\A
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\AppPlatform.Contracts.pdb
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.dll
 E:\workspace\Git\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.pdb
-G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\AppPlatform.Contracts.dll
-G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\AppPlatform.Contracts.pdb
-G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.csprojResolveAssemblyReference.cache
-G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.dll
-G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.pdb
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\AppPlatform.Contracts.dll
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\AppPlatform.Contracts.pdb
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.csprojResolveAssemblyReference.cache
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.dll
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.pdb
+G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\AppPlatform.Contracts.dll
+G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\bin\Debug\AppPlatform.Contracts.pdb
+G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.dll
+G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.Contracts\obj\Debug\AppPlatform.Contracts.pdb

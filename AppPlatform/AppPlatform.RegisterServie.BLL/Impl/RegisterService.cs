@@ -23,7 +23,7 @@ namespace AppPlatform.RegisterServie.BLL
                 enterprise.Checked = false;
                 IEnterpriseRepository _enterpriseRepository = RepositoryFactory.EnterpriseRepository;
 
-                Enterprise MaxenterpriseID = _enterpriseRepository.LoadEntities(Enterprise => Enterprise.Enterprise_ID >= 10000).Last();
+                Enterprise MaxenterpriseID = _enterpriseRepository.LoadEntities(Enterprise => Enterprise.Enterprise_ID >0).LastOrDefault();
 
                 if (MaxenterpriseID == null)
                 {
@@ -47,7 +47,7 @@ namespace AppPlatform.RegisterServie.BLL
                 user.User_State = true;//开启用户账户
                 user.Enterprise_ID = enterprise.Enterprise_ID;
                 IUserRepository _userRepository = RepositoryFactory.UserRepository;
-                var MaxUserAccount = _userRepository.LoadEntities(User => User.User_ID >= 10000).Last();
+                var MaxUserAccount = _userRepository.LoadEntities(User => User.User_ID >0).LastOrDefault();
                 if (MaxUserAccount == null)
                 {
                     user.User_ID = 10000;
