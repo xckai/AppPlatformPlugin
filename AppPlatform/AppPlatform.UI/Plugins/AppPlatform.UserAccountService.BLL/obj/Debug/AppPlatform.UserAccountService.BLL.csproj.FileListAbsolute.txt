@@ -36,3 +36,8 @@ F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.User
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\UIShell.OSGi.dll
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.dll
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.UserAccountService.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\AppPlatform.UserAccountService.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\bin\UIShell.OSGi.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserAccountService.BLL\obj\Debug\AppPlatform.UserAccountService.BLL.pdb

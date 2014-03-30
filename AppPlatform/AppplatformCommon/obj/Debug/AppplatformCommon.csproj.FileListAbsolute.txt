@@ -11,3 +11,7 @@ G:\实验室项目\AppPlatformPlugin\AppPlatform\AppplatformCommon\bin\Debug\App
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppplatformCommon\bin\Debug\AppplatformCommon.pdb
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppplatformCommon\obj\Debug\AppplatformCommon.dll
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppplatformCommon\obj\Debug\AppplatformCommon.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppplatformCommon\bin\Debug\AppplatformCommon.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppplatformCommon\bin\Debug\AppplatformCommon.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppplatformCommon\obj\Debug\AppplatformCommon.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppplatformCommon\obj\Debug\AppplatformCommon.pdb

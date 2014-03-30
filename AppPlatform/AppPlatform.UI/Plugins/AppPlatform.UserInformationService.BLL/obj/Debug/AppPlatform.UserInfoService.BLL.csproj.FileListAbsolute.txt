@@ -31,3 +31,9 @@ F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.User
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInfoService.BLL.csprojResolveAssemblyReference.cache
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInformationService.BLL.dll
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInformationService.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\bin\AppPlatform.UserInformationService.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\bin\AppPlatform.UserInformationService.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\bin\UIShell.OSGi.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInfoService.BLL.csprojResolveAssemblyReference.cache
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInformationService.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.UserInformationService.BLL\obj\Debug\AppPlatform.UserInformationService.BLL.pdb

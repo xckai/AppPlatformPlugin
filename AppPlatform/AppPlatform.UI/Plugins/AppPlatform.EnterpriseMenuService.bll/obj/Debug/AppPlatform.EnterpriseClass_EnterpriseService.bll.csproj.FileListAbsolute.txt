@@ -1,0 +1,5 @@
+F:\工程\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\AppPlatform.EnterpriseClass_EnterpriseService.bll.dll
+F:\工程\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\AppPlatform.EnterpriseClass_EnterpriseService.bll.pdb
+F:\工程\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\bin\UIShell.OSGi.dll
+F:\工程\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseClass_EnterpriseService.bll.dll
+F:\工程\AppPlatformPlugin-master\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.EnterpriseMenuService.bll\obj\Debug\AppPlatform.EnterpriseClass_EnterpriseService.bll.pdb

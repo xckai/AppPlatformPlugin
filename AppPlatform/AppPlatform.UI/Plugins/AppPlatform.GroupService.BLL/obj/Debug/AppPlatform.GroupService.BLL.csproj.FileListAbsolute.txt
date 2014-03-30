@@ -8,3 +8,8 @@ F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.Grou
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\bin\UIShell.OSGi.dll
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\obj\Debug\AppPlatform.UserGuopService.BLL.dll
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\obj\Debug\AppPlatform.UserGuopService.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\bin\AppPlatform.UserGuopService.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\bin\AppPlatform.UserGuopService.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\bin\UIShell.OSGi.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\obj\Debug\AppPlatform.UserGuopService.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupService.BLL\obj\Debug\AppPlatform.UserGuopService.BLL.pdb

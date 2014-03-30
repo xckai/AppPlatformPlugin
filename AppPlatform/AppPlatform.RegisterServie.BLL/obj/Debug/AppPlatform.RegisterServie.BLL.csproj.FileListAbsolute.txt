@@ -31,3 +31,14 @@ G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.csprojResolveAssemblyReference.cache
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.dll
 G:\实验室项目\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\AppPlatform.RegisterServie.BLL.dll.config
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\AppPlatform.RegisterServie.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\AppPlatform.RegisterServie.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\EntityFramework.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\EntityFramework.SqlServer.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\UIShell.OSGi.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\EntityFramework.xml
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\bin\EntityFramework.SqlServer.xml
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.csprojResolveAssemblyReference.cache
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.RegisterServie.BLL\obj\Debug\AppPlatform.RegisterServie.BLL.pdb

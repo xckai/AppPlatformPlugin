@@ -8,3 +8,8 @@ F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.Grou
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\bin\UIShell.OSGi.dll
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.dll
 F:\project\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\bin\AppPlatform.GroupPermissionService.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\bin\AppPlatform.GroupPermissionService.BLL.pdb
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\bin\UIShell.OSGi.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.dll
+F:\Projects\AppPlatformPlugin\AppPlatform\AppPlatform.UI\Plugins\AppPlatform.GroupPermissionService.BLL\obj\Debug\AppPlatform.GroupPermissionService.BLL.pdb
